@@ -41,7 +41,7 @@ Task ini saya membuat repository dengan nama java_muhammad-hafidz-febriansyah de
 ### 2.Implementasikan branching master, development, featureA, featureB
 
 1. Master
-   ![SS repo msttr](./screenshot/2.1 mstr.jpg)
+   ![SS repo msttr](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/2.1%20mstr.JPG>)
 2. Development
    ![SS repo dev](./screenshot/2.2 dev.jpg)
 3. Feature A
