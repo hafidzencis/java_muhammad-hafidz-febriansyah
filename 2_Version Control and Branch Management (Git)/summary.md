@@ -43,11 +43,11 @@ Task ini saya membuat repository dengan nama java_muhammad-hafidz-febriansyah de
 1. Master
    ![SS repo msttr](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/2.1%20mstr.JPG>)
 2. Development
-   ![SS repo dev](./screenshot/2.2 dev.jpg)
+   ![SS repo dev](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/2.2%20dev.JPG>)
 3. Feature A
-   ![SS repo feat A](./screenshot/2.3 featA.jpg)
+   ![SS repo feat A](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/2.3%20featA.JPG>)
 4. Feature B
-   ![SS repo feat B](./screenshot/2.4 featB.jpg)
+   ![SS repo feat B](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/2.4%20featB.JPG>)
 
 ### 3. Implementasikan intruksi git untuk push, pull, stash and merge
 
@@ -56,8 +56,25 @@ Task ini saya membuat repository dengan nama java_muhammad-hafidz-febriansyah de
    Berikut kode nya
    [master.java](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/4329e858711e4e2bb787000e79e3bfcc5a8de937/2_Version%20Control%20and%20Branch%20Management%20(Git)/praktikum/src/com/Master.java>)
 
-![SS push](./screenshot/1-git push.jpg)
+![SS push](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/1-git%20push.JPG>)
 
 2. GIT PULL
+   Pada hal ini, saya melakukan pull dari branch featureA meminta pull kepada development
+   ![SS pull](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/3-git%20pull.JPG>)
 3. GIT STASH
+   Pada hal ini, melakukan stash lalu melakukan stash apply
+   ![SS stash](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/2-git%20stash.JPG>)
 4. GIT MERGE
+   Pada hal ini saya melakukan merge menggunakan merge fast forward dari branch featureA merge ke development
+   ![SS merge](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/4-merge%20ff%20foward.JPG>)
+
+### 4 Implementasikan penanganan konflik ketika di branch development stlh merge dari featureA seteleh itu featureB
+
+    Pada hal ini saya melakukan merge dari branch featureA merge fast forward ke development
+      ![SS mergeff](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/4-merge%20ff%20foward.JPG>)
+
+    Setelah itu, saya melakukan merge dari branch featureB merge no fast forward ke development
+    ![SS mergenoff](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/4-merge%20noff%20accepting%20incoming.JPG)
+
+    dan terjadi konflik, penanganan saya adalah melakukan accepting booth/ semua saya terima
+    ![SS nonkonflik](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/4-merge%20noff%20conflict.JPG)

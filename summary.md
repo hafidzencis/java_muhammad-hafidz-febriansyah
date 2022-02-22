@@ -33,3 +33,7 @@ dan masih banyak lainnya
 ## Task
 
 ### 1.Membuat sebuah repository GITHUB
+
+Task ini saya membuat repository dengan nama java_muhammad-hafidz-febriansyah
+
+![SS repo](.)
