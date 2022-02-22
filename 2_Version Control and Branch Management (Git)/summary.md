@@ -41,13 +41,13 @@ Task ini saya membuat repository dengan nama java_muhammad-hafidz-febriansyah de
 ### 2.Implementasikan branching master, development, featureA, featureB
 
 1. Master
-   ![SS repo](./screenshot/2.1 mstr.JPG)
+   ![SS repo msttr](./screenshot/2.1 mstr.jpg)
 2. Development
-   ![SS repo](./screenshot/2.2 dev.JPG)
+   ![SS repo dev](./screenshot/2.2 dev.jpg)
 3. Feature A
-   ![SS repo](./screenshot/2.3 featA.JPG)
+   ![SS repo feat A](./screenshot/2.3 featA.jpg)
 4. Feature B
-   ![SS repo](./screenshot/2.4 featB.JPG)
+   ![SS repo feat B](./screenshot/2.4 featB.jpg)
 
 ### 3. Implementasikan intruksi git untuk push, pull, stash and merge
 
@@ -56,7 +56,7 @@ Task ini saya membuat repository dengan nama java_muhammad-hafidz-febriansyah de
    Berikut kode nya
    [master.java](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/4329e858711e4e2bb787000e79e3bfcc5a8de937/2_Version%20Control%20and%20Branch%20Management%20(Git)/praktikum/src/com/Master.java>)
 
-![SS push](./screenshot/1-git push.JPG)
+![SS push](./screenshot/1-git push.jpg)
 
 2. GIT PULL
 3. GIT STASH
