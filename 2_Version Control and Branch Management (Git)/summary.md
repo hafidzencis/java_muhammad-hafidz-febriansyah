@@ -53,8 +53,8 @@ Task ini saya membuat repository dengan nama java_muhammad-hafidz-febriansyah de
 
 1. GIT PUSH
    Pada hal ini, saya melakukan push pada branch development
-   Berikut kode nya **Enter**
-   [master.java](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/4329e858711e4e2bb787000e79e3bfcc5a8de937/2_Version%20Control%20and%20Branch%20Management%20(Git)/praktikum/src/com/Master.java>)
+   Berikut kode nya <br />
+   [master.java](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/4329e858711e4e2bb787000e79e3bfcc5a8de937/2_Version%20Control%20and%20Branch%20Management%20(Git)/praktikum/src/com/Master.java>)<br />
    ![SS push](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/1-git%20push.JPG>)
 2. GIT PULL
    Pada hal ini, saya melakukan pull dari branch featureA meminta pull kepada development **Enter**
