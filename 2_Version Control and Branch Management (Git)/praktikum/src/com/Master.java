@@ -7,5 +7,6 @@ public class Master {
         System.out.println("point-4");
         System.out.println("point-3");
         System.out.println("point featuraA");
+        System.out.println("point featureA sub");
     }
 }
