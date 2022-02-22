@@ -58,12 +58,17 @@ Task ini saya membuat repository dengan nama java_muhammad-hafidz-febriansyah de
    ![SS push](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/1-git%20push.JPG>)
 2. GIT PULL
    Pada hal ini, saya melakukan pull dari branch featureA meminta pull kepada development
+   [pullhistory](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/commit/8340c27bad3b38ab6718f17b362b77f4cb19fa94)
    ![SS pull](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/3-git%20pull.JPG>)
 3. GIT STASH
    Pada hal ini, melakukan stash lalu melakukan stash apply
+   [stashistory1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/commit/6b08f7cd3a303cffe7df845687441a511dea231e)
+   [stashhistory2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/commit/78f74a73917b0878536a34ddef0c6378c6654aac)
    ![SS stash](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/2-git%20stash.JPG>)
 4. GIT MERGE
    Pada hal ini saya melakukan merge menggunakan merge fast forward dari branch featureA merge ke development
+   [mergeff](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/commit/e02441984ea8e62118e45d07ef87f05a4cca4db1)
+   Maaf, saya salah melakukan penamaan commit seharusnya merge ff
    ![SS merge](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/4-merge%20ff%20foward.JPG>)
 
 ### 4.Implementasikan penanganan konflik ketika di branch development stlh merge dari featureA seteleh itu featureB
