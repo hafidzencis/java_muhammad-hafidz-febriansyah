@@ -55,9 +55,7 @@ Task ini saya membuat repository dengan nama java_muhammad-hafidz-febriansyah de
    Pada hal ini, saya melakukan push pada branch development
    Berikut kode nya
    [master.java](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/4329e858711e4e2bb787000e79e3bfcc5a8de937/2_Version%20Control%20and%20Branch%20Management%20(Git)/praktikum/src/com/Master.java>)
-
-![SS push](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/1-git%20push.JPG>)
-
+   ![SS push](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/1-git%20push.JPG>)
 2. GIT PULL
    Pada hal ini, saya melakukan pull dari branch featureA meminta pull kepada development
    ![SS pull](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/3-git%20pull.JPG>)
@@ -68,13 +66,13 @@ Task ini saya membuat repository dengan nama java_muhammad-hafidz-febriansyah de
    Pada hal ini saya melakukan merge menggunakan merge fast forward dari branch featureA merge ke development
    ![SS merge](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/4-merge%20ff%20foward.JPG>)
 
-### 4 Implementasikan penanganan konflik ketika di branch development stlh merge dari featureA seteleh itu featureB
+### 4.Implementasikan penanganan konflik ketika di branch development stlh merge dari featureA seteleh itu featureB
 
-    Pada hal ini saya melakukan merge dari branch featureA merge fast forward ke development
-      ![SS mergeff](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/4-merge%20ff%20foward.JPG>)
+Pada hal ini saya melakukan merge dari branch featureA merge fast forward ke development
+![SS mergeff](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/4-merge%20ff%20foward.JPG>)
 
-    Setelah itu, saya melakukan merge dari branch featureB merge no fast forward ke development
-    ![SS mergenoff](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/4-merge%20noff%20accepting%20incoming.JPG)
+Setelah itu, saya melakukan merge dari branch featureB merge no fast forward ke development
+![SS mergenoff](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/4-merge%20noff%20accepting%20incoming.JPG>)
 
-    dan terjadi konflik, penanganan saya adalah melakukan accepting booth/ semua saya terima
-    ![SS nonkonflik](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/4-merge%20noff%20conflict.JPG)
+dan terjadi konflik, penanganan saya adalah melakukan accepting booth/ semua saya terima
+![SS nonkonflik](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/4-merge%20noff%20conflict.JPG>)
