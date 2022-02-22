@@ -36,7 +36,7 @@ dan masih banyak lainnya
 
 Task ini saya membuat repository dengan nama java_muhammad-hafidz-febriansyah dengan folder awal section 2 yaitu Version Control and Branch Management (Git)
 
-![SS repo](./screenshot/1.Buat repo.JPG)
+![SS repo](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/1.Buat%20repo.JPG>)
 
 ### 2.Implementasikan branching master, development, featureA, featureB
 
@@ -53,22 +53,23 @@ Task ini saya membuat repository dengan nama java_muhammad-hafidz-febriansyah de
 
 1. GIT PUSH
    Pada hal ini, saya melakukan push pada branch development
-   Berikut kode nya
+   Berikut kode nya **Enter**
    [master.java](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/4329e858711e4e2bb787000e79e3bfcc5a8de937/2_Version%20Control%20and%20Branch%20Management%20(Git)/praktikum/src/com/Master.java>)
    ![SS push](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/1-git%20push.JPG>)
 2. GIT PULL
-   Pada hal ini, saya melakukan pull dari branch featureA meminta pull kepada development
+   Pada hal ini, saya melakukan pull dari branch featureA meminta pull kepada development **Enter**
    [pullhistory](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/commit/8340c27bad3b38ab6718f17b362b77f4cb19fa94)
+   **Enter**
    ![SS pull](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/3-git%20pull.JPG>)
 3. GIT STASH
-   Pada hal ini, melakukan stash lalu melakukan stash apply
-   [stashistory1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/commit/6b08f7cd3a303cffe7df845687441a511dea231e)
-   [stashhistory2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/commit/78f74a73917b0878536a34ddef0c6378c6654aac)
+   Pada hal ini, melakukan stash lalu melakukan stash apply**Enter**
+   [stashistory1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/commit/6b08f7cd3a303cffe7df845687441a511dea231e)**Enter**
+   [stashhistory2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/commit/78f74a73917b0878536a34ddef0c6378c6654aac)**Enter**
    ![SS stash](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/2-git%20stash.JPG>)
 4. GIT MERGE
-   Pada hal ini saya melakukan merge menggunakan merge fast forward dari branch featureA merge ke development
-   [mergeff](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/commit/e02441984ea8e62118e45d07ef87f05a4cca4db1)
-   Maaf, saya salah melakukan penamaan commit seharusnya merge ff
+   Pada hal ini saya melakukan merge menggunakan merge fast forward dari branch featureA merge ke development**Enter**
+   [mergeff](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/commit/e02441984ea8e62118e45d07ef87f05a4cca4db1)**Enter**
+   Maaf, saya salah melakukan penamaan commit seharusnya merge ff**Enter**
    ![SS merge](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/4-merge%20ff%20foward.JPG>)
 
 ### 4.Implementasikan penanganan konflik ketika di branch development stlh merge dari featureA seteleh itu featureB
@@ -79,5 +80,6 @@ Pada hal ini saya melakukan merge dari branch featureA merge fast forward ke dev
 Setelah itu, saya melakukan merge dari branch featureB merge no fast forward ke development
 ![SS mergenoff](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/4-merge%20noff%20accepting%20incoming.JPG>)
 
-dan terjadi konflik, penanganan saya adalah melakukan accepting booth/ semua saya terima
+dan terjadi konflik, penanganan saya adalah malakukan incoming change/ memilih file dari featureB**Enter**
+[penanganankonnflik](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/commit/2225a709421199c8844a9b3df3c73db8596a2485)**Enter**
 ![SS nonkonflik](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/4-merge%20noff%20conflict.JPG>)
