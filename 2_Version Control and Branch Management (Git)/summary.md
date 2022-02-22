@@ -22,12 +22,12 @@ untuk mencatat perubahan repository(GITHUB)
 ### Perintah dasar GIT
 
 Beberapa dasar commands pada GIT:
-...
-git remote add origin <link github> digunakan untuk sebagai jalan awal suatu branch
-git add . digunakan untuk menandai semua file ke staging area
-git add commit -m <pesan disampaikan> digunakan untuk memberi pesan pada dari staging area ke repository.File tersebut sudah siap untuk sinkronisasi ke repository
-git push origin <nama branch> digunakan untuk menyinkronisasi file yang sudah siap ke dalam repository
-...
+<br /><br />
+git remote add origin <link github> digunakan untuk sebagai jalan awal suatu branch<br />
+git add . digunakan untuk menandai semua file ke staging area<br />
+git add commit -m <pesan disampaikan> digunakan untuk memberi pesan pada dari staging area ke repository.File tersebut sudah siap untuk sinkronisasi ke repository<br />
+git push origin <nama branch> digunakan untuk menyinkronisasi file yang sudah siap ke dalam repository<br />
+<br /><br />
 dan masih banyak lainnya
 
 ## Task
