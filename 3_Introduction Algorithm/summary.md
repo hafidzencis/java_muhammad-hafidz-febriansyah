@@ -28,10 +28,10 @@ Flowchart adalah suatu bagan dengan simbol tertentu yang menggambarkan urutan da
 
 Berikut link dan gambar output <br />
 [Flowchartmencaribilanganprima](https://whimsical.com/kasus-4-problem-bilangan-prima-SyMmhgetjn5b2egc1qqeqq)<br />
-![SS no1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/3_Introduction%20Algorithm/screenshot/jawabanproblemnodua.JPG)
+![SS no1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/3_Introduction%20Algorithm/screenshot/jawabanproblemnosatu.JPG)
 
 ### 2. Problem 2 Lampu dan Tombol
 
 Berikut link dan gambar output <br />
 [Flowchartlampudantombol](https://whimsical.com/kasus-5-lampu-tombol-SS1PnnrvPs2h22N4pZa1nw)<br />
-![SS no1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/3_Introduction%20Algorithm/screenshot/jawabanproblemnosatu.JPG)
+![SS no1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/3_Introduction%20Algorithm/screenshot/jawabanproblemnodua.JPG)
