@@ -27,11 +27,11 @@ Flowchart adalah suatu bagan dengan simbol tertentu yang menggambarkan urutan da
 ### 1. Problem 1 Bilangan Prima
 
 Berikut link dan gambar output <br />
-[Flowchartmencaribilanganprima](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/4329e858711e4e2bb787000e79e3bfcc5a8de937/2_Version%20Control%20and%20Branch%20Management%20(Git)/praktikum/src/com/Master.java>)<br />
-![SS no1](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/1-git%20push.JPG>)
+[Flowchartmencaribilanganprima](https://whimsical.com/kasus-4-problem-bilangan-prima-SyMmhgetjn5b2egc1qqeqq)<br />
+![SS no1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/3_Introduction%20Algorithm/screenshot/jawabanproblemnodua.JPG)
 
 ### 2. Problem 2 Lampu dan Tombol
 
 Berikut link dan gambar output <br />
-[Flowchartlampudantombol](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/4329e858711e4e2bb787000e79e3bfcc5a8de937/2_Version%20Control%20and%20Branch%20Management%20(Git)/praktikum/src/com/Master.java>)<br />
-![SS no1](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/screenshot/1-git%20push.JPG>)
+[Flowchartlampudantombol](https://whimsical.com/kasus-5-lampu-tombol-SS1PnnrvPs2h22N4pZa1nw)<br />
+![SS no1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/3_Introduction%20Algorithm/screenshot/jawabanproblemnosatu.JPG)
