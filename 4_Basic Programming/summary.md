@@ -1,4 +1,4 @@
-# 3_Basic Programming
+# 4_Basic Programming
 
 ## Resume
 
@@ -45,33 +45,67 @@ Untuk IDE(Integrated Development Environmet) yang biasa digunakan itu BlueJ, Net
 
 ### Method
 
-    Pada hal ini, terdapat banyak method seperti : <br />
-    - Menggunakan Method dengan parameter
-    - Menggunakan Method dengan pengembalian
-    - Menggunakan Method dengan ada argument
-    - Menggunakan Method Overloading
+Pada hal ini, terdapat banyak method seperti : <br />
+
+- Menggunakan Method dengan parameter
+- Menggunakan Method dengan pengembalian
+- Menggunakan Method dengan ada argument
+- Menggunakan Method Overloading
 
 ## Task
 
 ### Task 1
 
-Link jawaban :
-Berikut link dan gambar output <br />
+Link Code : [Code-Task-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/praktikum/src/com/soal1.java)<br />
+
+Berikut gambar input dengan output <br />
+![input-output-no-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/screenshot/no1.JPG)
 
 ### Task 2
 
-Berikut link dan gambar output <br />
-[Flowchartlampudantombol](https://whimsical.com/kasus-5-lampu-tombol-SS1PnnrvPs2h22N4pZa1nw)<br />
-![SS no1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/3_Introduction%20Algorithm/screenshot/jawabanproblemnodua.JPG)
+Link Code : [Code-Task-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/praktikum/src/com/soal2.java)<br />
+
+Berikut dan gambar input dengan output <br />
+![input-output-no-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/screenshot/no2.JPG)
 
 ### Task 3
 
+Link Code : [Code-Task-3](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/praktikum/src/com/soal3.java)<br />
+
+Berikut dan gambar input dengan output <br />
+![input-output-no-3](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/screenshot/no3.JPG)
+
 ### Task 4
+
+Link Code : [Code-Task-4](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/praktikum/src/com/soal4.java)<br />
+
+Berikut dan gambar input dengan output <br />
+![input-output-no-4](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/screenshot/no4.JPG)
 
 ### Task 5
 
+Link Code : [Code-Task-5](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/praktikum/src/com/soal5.java)<br />
+
+Berikut link gambar input dengan output <br />
+![input-output-no-5](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/screenshot/no5.JPG)
+
 ### Task 6
+
+Link Code : [Code-Task-6](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/praktikum/src/com/soal6.java)<br />
+
+Berikut link gambar input dengan output <br />
+![input-output-no-6](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/screenshot/no6.JPG)
 
 ### Task 7
 
+Link Code : [Code-Task-7](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/praktikum/src/com/soal7.java)<br />
+
+Berikut link gambar input dengan output <br />
+![input-output-no-7](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/screenshot/no7.JPG)
+
 ### Task 8
+
+Link Code : [Code-Task-8](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/praktikum/src/com/soal8.java)<br />
+
+Berikut link gambar input dengan output <br />
+![input-output-no-8](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/screenshot/no8.JPG)
