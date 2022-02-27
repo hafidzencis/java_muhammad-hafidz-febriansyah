@@ -7,6 +7,7 @@ public class soal1 {
         System.out.print("Masukkan kata : ");
         String kata = input.nextLine();
         checkkata(kata);
+        input.close();
     }
 
     public static void checkkata(String semuakarakter) {
@@ -50,7 +51,6 @@ public class soal1 {
         System.out.println("\nJumlah Vokal : " + hurufvokal);
         System.out.println("Jumlah Konsonan : " + hurufkonsonan);
         System.out.println("Total Karakter : " + totalkarakter);
-        
     }
 
 

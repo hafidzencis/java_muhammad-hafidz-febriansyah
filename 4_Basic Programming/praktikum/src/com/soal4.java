@@ -13,6 +13,7 @@ public class soal4 {
         } else {
             System.out.println("\nBilangan Prima");
         }
+        input.close();
     }
 
     static int checkprimenumber(int bil) {

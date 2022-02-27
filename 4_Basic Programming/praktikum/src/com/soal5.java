@@ -1,13 +1,14 @@
 package com;
 import java.util.Scanner;
 
-import javax.lang.model.util.Elements.Origin;
+
 public class soal5 {
     public static void main(String[] args) {
         Scanner input  = new Scanner(System.in);
         System.out.print("Masukkan Teks : ");
         String kata = input.nextLine();
         System.out.println(checkpalindrome(kata));
+        input.close();
     }
 
     static String checkpalindrome(String cekkata) {

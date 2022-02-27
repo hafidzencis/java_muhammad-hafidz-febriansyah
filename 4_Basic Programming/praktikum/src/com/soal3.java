@@ -7,6 +7,7 @@ public class soal3 {
         System.out.print("Masukkan bilangan : ");
         int bilangan = input.nextInt();
         faktorbilangan(bilangan);
+        input.close();
 
     }
 

@@ -9,6 +9,7 @@ public class soal6 {
         System.out.print("n = ");
         int bil2 = input.nextInt();
         System.out.println("\n"+(int)(Math.pow(bil1, bil2)));
+        input.close();
 
     }
 }

@@ -7,6 +7,7 @@ public class soal2 {
         System.out.print("Masukkan kata : ");
         String kata = input.nextLine();
         System.out.println("\n"+checkkata(kata));
+        input.close();
     }
 
     static boolean checkkata(String semuakarakter) {

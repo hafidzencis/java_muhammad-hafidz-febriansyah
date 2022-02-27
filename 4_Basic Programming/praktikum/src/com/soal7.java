@@ -16,6 +16,7 @@ public class soal7 {
                 }
             System.out.println();
         }
+        input.close();
         
     }
 }    
