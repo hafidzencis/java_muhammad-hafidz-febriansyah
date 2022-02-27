@@ -40,15 +40,16 @@ Pernyataan diatas tersebut tidak punya batasan yang persis.Itu hanya untuk memnc
 
 ### Task 1
 
-Link Code : [Code-Task-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/praktikum/src/com/soal1.java)<br />
+Link Code : [Code-Task-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/5_Time%20Complexity%20%26%20Space%20Complexity/praktikum/src/com/soal1.java)<br />
 
 Berikut gambar input dengan output <br />
-![input-output-no-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/screenshot/no1.JPG)
+![input-output-no-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/5_Time%20Complexity%20%26%20Space%20Complexity/screenshot/soal1.JPG) <br />
+Dalam satuan milisekon
 
 ### Task 2
 
-Link Code : [Code-Task-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/praktikum/src/com/soal2.java)<br />
+Link Code : [Code-Task-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/5_Time%20Complexity%20%26%20Space%20Complexity/praktikum/src/com/soal2.java)<br />
 
 Berikut dan gambar input dengan output <br />
-![input-output-no-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/4_Basic%20Programming/screenshot/no2.JPG)
-s
+![input-output-no-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/5_Time%20Complexity%20%26%20Space%20Complexity/screenshot/soal2.JPG)<br />
+Dalam satuan nanosekon
