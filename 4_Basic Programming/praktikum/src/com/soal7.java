@@ -11,9 +11,9 @@ public class soal7 {
             for (int j = bilangan; j >= i; j--) {
                     System.out.print(" ");
                 }
-                for (int k = 1; k <=i ; k++) {
-                    System.out.print(" *");
-                }
+            for (int k = 1; k <=i ; k++) {
+                System.out.print(" *");
+            }
             System.out.println();
         }
         input.close();

@@ -11,7 +11,7 @@ Dalam materi ini, mempelajari :<br />
 ### Apa itu time complexity
 
 Time Complexity adalah ukuran waktu berapa lama pada operasi - operasi yang dapat dilakukan<br />
-operasi tersebut adalah operasi assignment dan operasi aritmatika.Untuk mengukur time complexity,harus melihat operasi yang cukup dominan
+operasi tersebut adalah operasi assignment dan operasi aritmatika.Untuk mengukur time complexity,harus melihat operasi yang cukup dominan.
 
 ### Perbandingan Time Complexity
 
