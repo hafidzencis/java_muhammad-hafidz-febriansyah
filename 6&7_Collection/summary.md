@@ -35,7 +35,7 @@ Dibawah Navigable Map terdapat Tree Map.
 
 ### Task 1
 
-Link Code : [Code-Task-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/5_Time%20Complexity%20%26%20Space%20Complexity/praktikum/src/com/soal1.java)<br />
+Link Code : [Code-Task-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/6%267_Collection/praktikum/src/com/soal1.java)<br />
 
 Berikut gambar input dengan output <br />
-![input-output-no-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/5_Time%20Complexity%20%26%20Space%20Complexity/screenshot/soal1.JPG) <br />
+![input-output-no-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/6%267_Collection/screenshot/no1.JPG) <br />
