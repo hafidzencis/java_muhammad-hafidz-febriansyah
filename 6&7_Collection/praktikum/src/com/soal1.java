@@ -19,22 +19,22 @@ public class soal1 {
         System.out.println(mergearray(c,d)); 
     }
 
-    static List<String> mergearray(String[] list1,String[] list2){
-        List<String> listarr = new ArrayList<String>();
+    static Set<String> mergearray(String[] list1,String[] list2){
+        Set<String> listarr = new LinkedHashSet<>();
 
         String[] x =  list1;
         String[] y =  list2;
 
-        
         for (String str1 : x) {
             listarr.add(str1);
-            
         }
+
         for (String str2 : y) {
             listarr.add(str2);
         }
-    
+
         return listarr;
+
     }
 
 }
