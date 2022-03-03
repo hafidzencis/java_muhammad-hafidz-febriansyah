@@ -35,10 +35,10 @@ macam - macam sorting yaitu selection sort, counting sort, builtin sort
 
 ### Task 1
 
-Link Code : [Code-Task-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/8_Recursive%2C%20Number%20Theory%2C%20Sorting%2C%20Searching/screenshot/no1.JPG)<br />
+Link Code : [Code-Task-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/8_Recursive%2C%20Number%20Theory%2C%20Sorting%2C%20Searching/praktikum/src/soal1.java)<br />
 
 Berikut gambar input dengan output <br />
-![input-output-no-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/6%267_Collection/screenshot/no1.JPG) <br />
+![input-output-no-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/8_Recursive%2C%20Number%20Theory%2C%20Sorting%2C%20Searching/screenshot/no1.JPG) <br />
 
 ### Task 2
 
