@@ -9,9 +9,11 @@ public class soal2 {
         return fibonacci(n-2) + fibonacci(n-1);
         }
         public static void main(String args[]) {
-            int maxNumber = 10;
+            
+            int angka = 10;
+            System.out.println(angka + "\n");
         
-            for(int i = 0; i < maxNumber; i++){
+            for(int i = 0; i < angka; i++){
                 System.out.print(fibonacci(i) +" ");
             }
         }
