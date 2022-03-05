@@ -39,28 +39,28 @@ Algoritma yang fokus mencari nilai yang lokal optimal
 
 ### Task 1
 
-Link Code : [Code-Task-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/9_Problem%20Solving%20BruteForce/praktikum/src/soal1.java){:target="\_blank"}<br />
+Link Code : [Code-Task-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/9_Problem%20Solving%20BruteForce/praktikum/src/soal1.java)<br />
 
 Berikut gambar input dengan output <br />
 ![input-output-no-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/9_Problem%20Solving%20BruteForce/screenshot/no1.JPG) <br />
 
 ### Task 2
 
-Link Code : [Code-Task-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/9_Problem%20Solving%20BruteForce/praktikum/src/soal2.java){:target="\_blank"}<br />
+Link Code : [Code-Task-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/9_Problem%20Solving%20BruteForce/praktikum/src/soal2.java)<br />
 
 Berikut gambar input dengan output <br />
 ![input-output-no-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/9_Problem%20Solving%20BruteForce/screenshot/no2.JPG) <br />
 
 ### Task 3
 
-Link Code : [Code-Task-3](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/9_Problem%20Solving%20BruteForce/praktikum/src/soal3.java){:target="\_blank"}<br />
+Link Code : [Code-Task-3](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/9_Problem%20Solving%20BruteForce/praktikum/src/soal3.java)<br />
 
 Berikut gambar input dengan output <br />
 ![input-output-no-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/9_Problem%20Solving%20BruteForce/screenshot/no3.JPG) <br />
 
 ### Task 4
 
-Link Code : [Code-Task-4](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/9_Problem%20Solving%20BruteForce/praktikum/src/soal4.java){:target="\_blank"}<br />
+Link Code : [Code-Task-4](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/9_Problem%20Solving%20BruteForce/praktikum/src/soal4.java)<br />
 
 Berikut gambar input dengan output <br />
 ![input-output-no-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/9_Problem%20Solving%20BruteForce/screenshot/no4.JPG) <br />
