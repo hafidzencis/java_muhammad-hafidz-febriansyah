@@ -1,4 +1,7 @@
 package com;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 import java.util.Scanner;
 
 
@@ -9,9 +12,10 @@ public class soal5 {
         String kata = input.nextLine();
         System.out.println(checkpalindrome(kata));
         input.close();
-    }
 
-    static String checkpalindrome(String cekkata) {
+         
+        }
+        static String checkpalindrome(String cekkata) {
         String asli = cekkata;
         String dibalik = "";
         int panjangkata = cekkata.length();
@@ -24,8 +28,13 @@ public class soal5 {
         else {
            return ("\nBukan Palindrome");
         }
+    }
+
+}
+
+
+
   
 
 
-    }
-}
+
