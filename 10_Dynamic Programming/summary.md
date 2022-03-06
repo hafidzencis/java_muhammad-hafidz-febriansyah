@@ -42,17 +42,17 @@ Contoh dari dyanimic programming adalah penyelesaian soal dari Fibonacci number
 
 ### Task 1
 
-Link Code : [Code-Task-1]()<br />
+Link Code : [Code-Task-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/10_Dynamic%20Programming/praktikum/src/soal1.java)<br />
 
 Berikut gambar input dengan output <br />
-![input-output-no-1]()<br />
+![input-output-no-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/10_Dynamic%20Programming/screenshot/no1.JPG)<br />
 
 ### Task 2
 
-Link Code : [Code-Task-2]()<br />
+Link Code : [Code-Task-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/10_Dynamic%20Programming/praktikum/src/soal2.java)<br />
 
 Berikut gambar input dengan output <br />
-![input-output-no-1]()<br />
+![input-output-no-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/10_Dynamic%20Programming/screenshot/no2.JPG)<br />
 
 ### Task 3
 
