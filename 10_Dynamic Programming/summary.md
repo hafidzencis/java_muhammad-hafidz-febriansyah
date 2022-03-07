@@ -58,12 +58,6 @@ Berikut gambar input dengan output <br />
 
 Link Code : [Code-Task-3](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/10_Dynamic%20Programming/praktikum/src/soal3.java)<br />
 
-Berikut gambar input dengan output <br />
-![input-output-no-1]()<br />
-
 ### Task 4
 
 Link Code : [Code-Task-4](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/10_Dynamic%20Programming/praktikum/src/soal4.java)<br />
-
-Berikut gambar input dengan output <br />
-![input-output-no-1]()<br />
