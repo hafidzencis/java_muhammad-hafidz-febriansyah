@@ -1,4 +1,4 @@
-# 9_Dynamic Programming
+# 10_Dynamic Programming
 
 ## Resume
 
