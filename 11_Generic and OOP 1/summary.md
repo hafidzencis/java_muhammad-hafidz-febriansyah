@@ -47,8 +47,8 @@ mencakar, memanjat. Dalam konsep paragdima OOP ini disebut BEHAVIOR.
 
 ### Task 1
 
-Link Code : [Code-Task-1]()<br />
+Link Code : [Code-Task-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/11_Generic%20and%20OOP%201/praktikum/src/com/soal1java)<br />
 
 ### Task 2
 
-Link Code : [Code-Task-2]()<br />
+Link Code : [Code-Task-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/11_Generic%20and%20OOP%201/praktikum/src/com/soal2java)<br />
