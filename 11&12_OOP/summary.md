@@ -54,22 +54,22 @@ adalah sebuah prinsip dalam biologi di mana organisme atau spesies memiliki bany
 
 Link Code : [Code-Task-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/11%2612_OOP/praktikum/src/com/soal1java)<br />
 Berikut gambar output <br />
-![output]()<br />
+![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/11%2612_OOP/screenshot/1.JPG)<br />
 
 ### Task 2
 
 Link Code : [Code-Task-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/11%2612_OOP/praktikum/src/com/soal2java)<br />
 Berikut gambar output <br />
-![output]()<br />
+![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/11%2612_OOP/screenshot/2.JPG)<br />
 
 ### Task 3
 
 Link Code : [Code-Task-3](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/11%2612_OOP/praktikum/src/com/soal3java)<br />
 Berikut gambar output <br />
-![output]()<br />
+![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/11%2612_OOP/screenshot/3.JPG)<br />
 
 ### Task 4
 
 Link Code : [Code-Task-4](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/11%2612_OOP/praktikum/src/com/soal4java)<br />
 Berikut gambaroutput <br />
-![output]()<br />
+![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/11%2612_OOP/screenshot/4.JPG)<br />
