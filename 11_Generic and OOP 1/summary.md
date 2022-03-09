@@ -6,6 +6,7 @@ Dalam materi ini, mempelajari <br />
 
 1. Konsep Paradigma OOP <br />
 2. Konsep OOP Fundamental <br />
+3. Konsep Polymorphism <br />
 
 ### Konsep Paradigma OOP
 
@@ -43,12 +44,24 @@ mencakar, memanjat. Dalam konsep paragdima OOP ini disebut BEHAVIOR.
 3. INHERITANCE
    adalah cara untuk mewariskan dari class ke sub class lainnya.
 
+### Konsep Polymorphism
+
+adalah sebuah prinsip dalam biologi di mana organisme atau spesies memiliki banyak bentuk serta tahapan (stages).
+
 ## Task
 
 ### Task 1
 
-Link Code : [Code-Task-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/11_Generic%20and%20OOP%201/praktikum/src/com/soal1java)<br />
+Link Code : [Code-Task-1]()<br />
 
 ### Task 2
 
-Link Code : [Code-Task-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/11_Generic%20and%20OOP%201/praktikum/src/com/soal2java)<br />
+Link Code : [Code-Task-2](])<br />
+
+### Task 3
+
+Link Code : [Code-Task-3]()<br />
+
+### Task 3
+
+Link Code : [Code-Task-4]()<br />
