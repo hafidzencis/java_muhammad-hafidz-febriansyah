@@ -52,16 +52,20 @@ adalah sebuah prinsip dalam biologi di mana organisme atau spesies memiliki bany
 
 ### Task 1
 
-Link Code : [Code-Task-1]()<br />
+Link Code : [Code-Task-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/11%2612_OOP/praktikum/src/com/soal1java)<br />
 
 ### Task 2
 
-Link Code : [Code-Task-2](])<br />
+Link Code : [Code-Task-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/11%2612_OOP/praktikum/src/com/soal2java)<br />
 
 ### Task 3
 
-Link Code : [Code-Task-3]()<br />
+Link Code : [Code-Task-3](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/11%2612_OOP/praktikum/src/com/soal3java)<br />
 
-### Task 3
+### Task 4
+
+Link Code : [Code-Task-4](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/11%2612_OOP/praktikum/src/com/soal4java)<br />
+
+### Task 5
 
 Link Code : [Code-Task-4]()<br />
