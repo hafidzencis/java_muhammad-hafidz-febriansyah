@@ -38,4 +38,32 @@ Definisi DML adalah Data Manipulation Language, memanipulasi database seperti: m
 
 ### Task 1
 
-Link Code : [Code-Task-1](https://drive.google.com/drive/folders/1jOK370AVOTvjlbmvIc6-DMfq_3WA8KUa?usp=sharing)
+- Gambar ERD Alta_Online_Shop(Digital Outlet Pulsa)<br />
+  ![output]()<br />
+
+### Task 2
+
+1. Membuat database alta_online_shop <br />
+   ![output]()<br />
+
+2. a. Membuat table user <br />
+   ![output]()<br />
+   b. Membuat table product, product type, operators. product description, payment method <br />
+   ![output]()<br />
+   c. Membuat table transaction, transaction detail <br />
+   ![output]()<br />
+3. Membuat tabel kurir field id, name, created_at, updated_at<br />
+   ![output]()<br />
+
+4. Menambahkan kolom ongkos_dasar di tabel kurir<br />
+   ![output]()<br />
+5. Rename tabel kurir menjadi shipping<br />
+   ![output]()<br />
+6. Hapus table shipping<br />
+   ![output]()<br />
+7. a. 1-to-1 payment method description<br />
+   ![output]()<br />
+   b. 1-to-many user dengan alamat<br />
+   ![output]()<br />
+   c. many-to-many user dengan payment method menjadi user_payment_method_detail<br />
+   ![output]()<br />
