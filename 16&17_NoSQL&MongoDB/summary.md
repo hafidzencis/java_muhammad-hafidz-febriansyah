@@ -67,48 +67,49 @@ db.collections.remove({nama:'jokowi'})<br />
 
 1. Create <br />
    a. Insert 5 Operators pada table operators<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/1.JPG)<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/2.JPG)<br />
    b. Insert 3 product type<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/1-Create-b.JPG)<br />
    c. Insert 2 product dengan product type id = 1 dan operator id = 3<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/1-Create-c.JPG)<br />
    d. Insert 3 product dengan product type id = 2 dan operator id = 1<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/1-Create-d.JPG)<br />
    e. Insert 3 product dengan product type id = 3 dan operator id = 4<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/1-Create-e.JPG)<br />
    f. Insert product description pada setiap product<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/1-Create-f.JPG)<br />
    g. Insert 3 payment methods<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/1-Create-g.JPG)<br />
    h. Insert 5 user pada tabel user<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/1-Create-h.JPG)<br />
 
 2. Read <br />
    a. Tampilkan nama user dengan gender Laki laki<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/2-read-a.JPG)<br />
    b. Tampilkan product dengan id = 3<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/2-read-b.JPG)<br />
    c. Hitung jumlah user dengan status gender Perempuan<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/2-read-c.JPG)<br />
    d. Tampilkan data pelanggan dengan urutan seusai nama abjad<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/2-read-d.JPG)<br />
    e. Tampilkan 5 data product<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/2-read-e.JPG)<br />
 
 3. Update <br />
    a. Ubah data product id 1 dengan nama 'product dummy'<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/3-delete-a.JPG)<br />
 
 4. Delete <br />
    a. Delete data pada tabel product dengan id = 1<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/4-delete-a.JPG)<br />
    b. Delete data pada tabel product dengan product type id = 1<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/4-delete-b.JPG)<br />
 
 ### Task 2
 
 1. Menampilkan data buku dari author id 1 dan author id 2<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/2-1.JPG)<br />
 
 2. Tampilkan daftar buku dan harga author id = 1<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/2-2.JPG)<br />
