@@ -97,10 +97,10 @@ Indexing adalah teknik struktur data yang memungkinkan Anda dengan cepat mengamb
 
 1. Create <br />
    a. Buatlah design ERD dari diagram diatas <br /><br />
-   ![output]()<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/18_System%20Design/screenshot/NO1.png)<br />
+
    b. Gambarkan use case diagram tersebut <br /><br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/18_System%20Design/screenshot/NO2.png)<br />
 
 2. QUERY, Menampilkan SELECT From users dengan berbagai tipe NoSQL <br />
    a. Redis<br /><br/>
