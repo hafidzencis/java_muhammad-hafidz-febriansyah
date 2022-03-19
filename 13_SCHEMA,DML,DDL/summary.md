@@ -39,31 +39,35 @@ Definisi DML adalah Data Manipulation Language, memanipulasi database seperti: m
 ### Task 1
 
 - Gambar ERD Alta_Online_Shop(Digital Outlet Pulsa)<br />
-  ![output]()<br />
+  ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/13_SCHEMA%2CDML%2CDDL/screenshot/no1erd.png)<br /><br />
 
 ### Task 2
 
 1. Membuat database alta_online_shop <br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/13_SCHEMA%2CDML%2CDDL/screenshot/1.JPG)<br /><br />
 
 2. a. Membuat table user <br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/13_SCHEMA%2CDML%2CDDL/screenshot/2-a.JPG)<br /><br />
    b. Membuat table product, product type, operators. product description, payment method <br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/13_SCHEMA%2CDML%2CDDL/screenshot/2-b.JPG)<br /><br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/13_SCHEMA%2CDML%2CDDL/screenshot/2-c.JPG)<br /><br />
+
    c. Membuat table transaction, transaction detail <br />
-   ![output]()<br />
+   ![output]()<br /><br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/13_SCHEMA%2CDML%2CDDL/screenshot/2-b2.JPG)<br /><br />
+
 3. Membuat tabel kurir field id, name, created_at, updated_at<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/13_SCHEMA%2CDML%2CDDL/screenshot/3dan%204.JPG)<br /><br />
 
 4. Menambahkan kolom ongkos_dasar di tabel kurir<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/13_SCHEMA%2CDML%2CDDL/screenshot/3dan%204.JPG)<br /><br />
 5. Rename tabel kurir menjadi shipping<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/13_SCHEMA%2CDML%2CDDL/screenshot/5.JPG)<br /><br />
 6. Hapus table shipping<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/13_SCHEMA%2CDML%2CDDL/screenshot/6.JPG)<br /><br />
 7. a. 1-to-1 payment method description<br />
-   ![output]()<br />
+   ![output]()<br /><br />
    b. 1-to-many user dengan alamat<br />
-   ![output]()<br />
+   ![output]()<br /><br />
    c. many-to-many user dengan payment method menjadi user_payment_method_detail<br />
-   ![output]()<br />
+   ![output]()<br /><br />
