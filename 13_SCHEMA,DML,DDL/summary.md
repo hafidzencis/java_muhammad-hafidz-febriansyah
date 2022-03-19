@@ -53,7 +53,7 @@ Definisi DML adalah Data Manipulation Language, memanipulasi database seperti: m
    ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/13_SCHEMA%2CDML%2CDDL/screenshot/2-c.JPG)<br /><br />
 
    c. Membuat table transaction, transaction detail <br />
-   ![output]()<br /><br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/13_SCHEMA%2CDML%2CDDL/screenshot/2-c1.JPG)<br /><br />
    ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/13_SCHEMA%2CDML%2CDDL/screenshot/2-b2.JPG)<br /><br />
 
 3. Membuat tabel kurir field id, name, created_at, updated_at<br />
