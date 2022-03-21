@@ -1,0 +1,85 @@
+{
+	"info": {
+		"_postman_id": "e57d12cc-dc08-4926-91fd-1e54d1313345",
+		"name": "No2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "TargetAPI1",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/api/people/1/",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"api",
+						"people",
+						"1",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TargetAPI2",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/api/starships/12/",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"api",
+						"starships",
+						"12",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TargetAPI3",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "TargetAPI4",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/api/films/1/",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"api",
+						"films",
+						"1",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TargetAPI5",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

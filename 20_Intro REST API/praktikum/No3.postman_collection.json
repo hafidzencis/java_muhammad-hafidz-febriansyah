@@ -1,0 +1,92 @@
+{
+	"info": {
+		"_postman_id": "5c790cdd-e532-490c-bdfa-64cb123e2633",
+		"name": "No3",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/sepulsa/RentABook-API/1.0.0/client/1",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"sepulsa",
+						"RentABook-API",
+						"1.0.0",
+						"client",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/sepulsa/RentABook-API/1.0.0/client",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"sepulsa",
+						"RentABook-API",
+						"1.0.0",
+						"client"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PUT",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/sepulsa/RentABook-API/1.0.0/client/1",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"sepulsa",
+						"RentABook-API",
+						"1.0.0",
+						"client",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{base_url}}/sepulsa/RentABook-API/1.0.0/client/1",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"sepulsa",
+						"RentABook-API",
+						"1.0.0",
+						"client",
+						"1"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
