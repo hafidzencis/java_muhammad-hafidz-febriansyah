@@ -51,12 +51,12 @@ Request & Response format :<br /> <br />
 
 1. - A. Membuat Request API denga laman https://newsapi.org/ <br /><br />
      TargetAPI1 - TargetAPI5 <br /><br />
-     [CODE-JSON-NO-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/18_System%20Design/screenshot/NO1.png)<br /><br/><br />
+     [CODE-JSON-NO-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/20_Intro%20REST%20API/praktikum/No1.postman_collection.json)<br /><br/><br />
 
 2. - B. Membuat Request API denga laman https://swapi.dev/<br /><br />
      TargetAPI1 - TargetAPI5 <br /><br />
-     [CODE-JSON-NO-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/18_System%20Design/screenshot/NO1.png)<br /><br/><br />
+     [CODE-JSON-NO-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/20_Intro%20REST%20API/praktikum/No2.postman_collection.json)<br /><br/><br />
 
 3. - C. Membuat Request API dengan di implementasikan ke GET,POST,PUT,DELETE di laman
      https://app.swaggerhub.com/apis-docs/sepulsa/RentABook-API/1.0.0<br /><br />
-     [CODE-JSON-NO-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/18_System%20Design/screenshot/NO1.png)<br /><br/><br />
+     [CODE-JSON-NO-3](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/20_Intro%20REST%20API/praktikum/No3.postman_collection.json)<br /><br/><br />
