@@ -46,11 +46,11 @@ Maven adalah alat manajemen proyek dan perangkat pemahaman proyek yang mengelola
 PROBLEM SAY HELLO FROM SPRINGBOOT<br /><br />
 
 - a. GET <br />
-  ![CODE-JSON-NO-2]()<br /><br/><br />
+  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/21_Intro%20Spring%20Boot%20(Maven%2C%20Dependency%2C%20Pom)/screenshot/GET.JPG>)<br /><br/><br />
 - b. POST <br />
-  ![CODE-JSON-NO-2]()<br /><br/><br />
+  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/21_Intro%20Spring%20Boot%20(Maven%2C%20Dependency%2C%20Pom)/screenshot/POST.JPG>)<br /><br/><br />
 - c. DELETE <br />
-  ![CODE-JSON-NO-2]()<br /><br/><br />
+  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/21_Intro%20Spring%20Boot%20(Maven%2C%20Dependency%2C%20Pom)/screenshot/DELETE.JPG>)<br /><br/><br />
 
 ### Task 2
 
