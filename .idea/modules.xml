@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10_Dynamic Programming/10_Dynamic Programming.iml" filepath="$PROJECT_DIR$/10_Dynamic Programming/10_Dynamic Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11&amp;12_OOP/11&amp;12_OOP.iml" filepath="$PROJECT_DIR$/11&amp;12_OOP/11&amp;12_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_Version Control and Branch Management (Git)/2_Version Control and Branch Management (Git).iml" filepath="$PROJECT_DIR$/2_Version Control and Branch Management (Git)/2_Version Control and Branch Management (Git).iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_Basic Programming/4_Basic Programming.iml" filepath="$PROJECT_DIR$/4_Basic Programming/4_Basic Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_Time Complexity &amp; Space Complexity/5_Time Complexity &amp; Space Complexity.iml" filepath="$PROJECT_DIR$/5_Time Complexity &amp; Space Complexity/5_Time Complexity &amp; Space Complexity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6&amp;7_Collection/6&amp;7_Collection.iml" filepath="$PROJECT_DIR$/6&amp;7_Collection/6&amp;7_Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_Recursive, Number Theory, Sorting, Searching/8_Recursive, Number Theory, Sorting, Searching.iml" filepath="$PROJECT_DIR$/8_Recursive, Number Theory, Sorting, Searching/8_Recursive, Number Theory, Sorting, Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9_Problem Solving BruteForce/9_Problem Solving BruteForce.iml" filepath="$PROJECT_DIR$/9_Problem Solving BruteForce/9_Problem Solving BruteForce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TUGAS.iml" filepath="$PROJECT_DIR$/.idea/TUGAS.iml" />
+    </modules>
+  </component>
+</project>
