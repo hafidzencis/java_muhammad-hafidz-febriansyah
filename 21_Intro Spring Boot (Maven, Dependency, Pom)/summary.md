@@ -5,7 +5,7 @@
 Dalam materi ini, mempelajari <br />
 
 1. Definsi HTTP <br />
-2. Definisi MAVEN<br />
+2. HTTP Request Example and HTTP Error<br />
 3. Definisi MAVEN<br /><br />
 
 ### Definsi HTTP
@@ -15,7 +15,7 @@ HTTP adalah protocol itu transmite hypermedia document seperti HTML,Javascript,C
 HTTP ini berawal dari desain komunikasi diantara Web Browser dan Web Server, tetapi
 sekarang tidak di gunakan banyak aplikasi.<br /><br />
 
-### HTTP Request Example and HTTP Erro <br>
+### HTTP Request Example and HTTP Error <br>
 
 POST /product HTTP/1.1 -----> Request Line <br /><br />
 
