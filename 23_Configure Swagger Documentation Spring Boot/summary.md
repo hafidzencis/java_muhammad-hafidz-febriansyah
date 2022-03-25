@@ -37,18 +37,18 @@ stock<br />
 price<br />
 lalu diintegrasikan dengan Swagger untuk API dokumentasi
 
-- a. GET /v1/posts <br />
-  ![CODE-JSON-NO-2]()<br /><br/><br />
+- a. GET /v1/posts/1 <br />
+  ![CODE-JSON-NO-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/23_Configure%20Swagger%20Documentation%20Spring%20Boot/screenshot/get1.JPG)<br /><br/><br />
 - b. POST /v1/posts <br />
-  ![CODE-JSON-NO-2]()<br /><br/>
-  ![CODE-JSON-NO-2]()<br /><br/><br />
-- c. DELETE /v1/posts/{id} <br />
-  ![CODE-JSON-NO-2]()<br /><br/><br />
+  ![CODE-JSON-NO-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/23_Configure%20Swagger%20Documentation%20Spring%20Boot/screenshot/post1.JPG)<br /><br/>
+  ![CODE-JSON-NO-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/23_Configure%20Swagger%20Documentation%20Spring%20Boot/screenshot/post2.JPG)<br /><br/><br />
+- c. DELETE /v1/posts/1 <br />
+  ![CODE-JSON-NO-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/23_Configure%20Swagger%20Documentation%20Spring%20Boot/screenshot/delete.JPG)<br /><br/><br />
 - d. PUT /v1/posts/{id} <br />
-  ![CODE-JSON-NO-2]()<br /><br/>
-  ![CODE-JSON-NO-2]()<br /><br/><br />
+  ![CODE-JSON-NO-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/23_Configure%20Swagger%20Documentation%20Spring%20Boot/screenshot/put1.JPG)<br /><br/>
+  ![CODE-JSON-NO-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/23_Configure%20Swagger%20Documentation%20Spring%20Boot/screenshot/put2.JPG)<br /><br/><br />
 
 ### Task 2
 
 Custom payload response atau request di model dengan annotation di Swagger API Docs<br /><br/>
-![CODE-JSON-NO-2]()<br /><br/>
+![CODE-JSON-NO-2](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/23_Configure%20Swagger%20Documentation%20Spring%20Boot/screenshot/no2.JPG)<br /><br/>
