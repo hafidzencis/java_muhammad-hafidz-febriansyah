@@ -49,9 +49,9 @@ melakukan CRUD lengkap yang memuat REST API Endpoint, Repository, dan Service<br
 - Product <br /><br />
 
 ==> Repository<br />
-![XX](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/repository/prod.JPG>)<br />
+![XX](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/repository/prod.JPG>)<br /><br />
 ==> Service<br />
-[ProductService](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/praktikum/Section26/src/main/java/com/Alterra/Section26/service/ProductService.java>)<br />
+[ProductService](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/praktikum/Section26/src/main/java/com/Alterra/Section26/service/ProductService.java>)<br /><br />
 ==> Endppoint<br />
 -> a. GET /api/v1/product <br />
 ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/getprod.JPG>)<br /><br/><br />
@@ -68,9 +68,9 @@ melakukan CRUD lengkap yang memuat REST API Endpoint, Repository, dan Service<br
 - Transaction <br /><br />
 
 ==> Repository<br />
-![XX](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/repository/trannsc.JPG>)<br />
+![XX](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/repository/trannsc.JPG>)<br /><br />
 ==> Service<br />
-[TransactionService](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/praktikum/Section26/src/main/java/com/Alterra/Section26/service/TransactionService.java>)<br />
+[TransactionService](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/praktikum/Section26/src/main/java/com/Alterra/Section26/service/TransactionService.java>)<br /><br />
 ==> Endppoint<br />
 -> a. GET /api/v1/transaction <br />
 ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/gettransac.JPG>)<br /><br/><br />
@@ -86,9 +86,9 @@ melakukan CRUD lengkap yang memuat REST API Endpoint, Repository, dan Service<br
 - Transaction Detail <br /><br />
 
 ==> Repository<br />
-![XX](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/repository/trannscdetail.JPG>)<br />
+![XX](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/repository/trannscdetail.JPG>)<br /><br />
 ==> Service<br />
-[TransactionDetailService](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/praktikum/Section26/src/main/java/com/Alterra/Section26/service/TransactionDetailsService.java>)<br />
+[TransactionDetailService](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/praktikum/Section26/src/main/java/com/Alterra/Section26/service/TransactionDetailsService.java>)<br /><br />
 ==> Endppoint
 -> a. GET /api/v1/transactiondetail <br />
 ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/gettransacdetai.JPG>)<br /><br/><br />
