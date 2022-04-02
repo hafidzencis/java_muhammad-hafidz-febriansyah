@@ -49,54 +49,54 @@ melakukan CRUD lengkap yang memuat REST API Endpoint, Repository, dan Service<br
 - Product <br /><br />
 
 ==> Repository<br />
-![XX]()<br />
+![XX](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/repository/prod.JPG>)<br />
 ==> Service<br />
-[ProductService]()<br />
+[ProductService](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/praktikum/Section26/src/main/java/com/Alterra/Section26/service/ProductService.java>)<br />
 ==> Endppoint<br />
 -> a. GET /api/v1/product <br />
-![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/GET.JPG>)<br /><br/><br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/getprod.JPG>)<br /><br/><br />
 
 -> b. POST /api/v1/product <br />
-![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/POST.JPG>)<br /><br/><br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/Postprod.JPG>)<br /><br/><br />
 
 -> c. PUT /api/v1/product/{id}
-![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/POST.JPG>)<br /><br/><br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/putprod.JPG>)<br /><br/><br />
 
 -> d. DELETE /api/v1/product/{id} <br />
-![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/DELETE.JPG>)<br /><br/><br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/delprod.JPG>)<br /><br/><br />
 
 - Transaction <br /><br />
 
 ==> Repository<br />
-![XX]()<br />
+![XX](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/repository/trannsc.JPG>)<br />
 ==> Service<br />
-[TransactionService]()<br />
+[TransactionService](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/praktikum/Section26/src/main/java/com/Alterra/Section26/service/TransactionService.java>)<br />
 ==> Endppoint<br />
 -> a. GET /api/v1/transaction <br />
-![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/GET.JPG>)<br /><br/><br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/gettransac.JPG>)<br /><br/><br />
 -> b. POST /api/v1/transaction <br />
-![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/POST.JPG>)<br /><br/><br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/posttransac.JPG>)<br /><br/><br />
 
 -> c. PUT /api/v1/transaction/{id}
-![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/POST.JPG>)<br /><br/><br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/puttransac.JPG>)<br /><br/><br />
 
 -> d. DELETE /api/v1/transaction/{id} <br />
-![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/DELETE.JPG>)<br /><br/><br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/deltransac.JPG>)<br /><br/><br />
 
 - Transaction Detail <br /><br />
 
 ==> Repository<br />
-![XX]()<br />
+![XX](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/repository/trannscdetail.JPG>)<br />
 ==> Service<br />
-[TransactionDetailService]()<br />
+[TransactionDetailService](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/praktikum/Section26/src/main/java/com/Alterra/Section26/service/TransactionDetailsService.java>)<br />
 ==> Endppoint
 -> a. GET /api/v1/transactiondetail <br />
-![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/GET.JPG>)<br /><br/><br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/gettransacdetai.JPG>)<br /><br/><br />
 -> b. POST /api/v1/transactiondetail <br />
-![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/POST.JPG>)<br /><br/><br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/posttransacdetai.JPG>)<br /><br/><br />
 
 -> c. PUT /api/v1/transactiondetail/{id}
-![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/POST.JPG>)<br /><br/><br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/puttransacdetai.JPG>)<br /><br/><br />
 
 -> d. DELETE /api/v1/transactiondetail{id} <br />
-![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/DELETE.JPG>)<br /><br/><br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/26_JPA%20(Spring%20Database%20No%20SQL)/screenshot/deltransacdetai.JPG>)<br /><br/><br />
