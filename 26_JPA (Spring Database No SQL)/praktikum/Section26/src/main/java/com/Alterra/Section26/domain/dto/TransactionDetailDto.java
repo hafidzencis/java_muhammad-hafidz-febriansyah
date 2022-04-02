@@ -15,9 +15,9 @@ import lombok.NoArgsConstructor;
 public class TransactionDetailDto {
     private String id;
 
-    private TransactionDto transaction_id;
+    private String transaction_id;
 
-    private ProductDto product_id;
+    private String product_id;
 
     private Long quantity;
 }

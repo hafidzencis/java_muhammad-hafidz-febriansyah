@@ -17,9 +17,9 @@ public class TransactionDetailDao {
     @Id
     private String id;
 
-    private TransactionDao transaction_id;
+    private String transaction_id;
 
-    private ProductDao product_id;
+    private String product_id;
 
     private Long quantity;
 }

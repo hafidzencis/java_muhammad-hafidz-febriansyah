@@ -46,13 +46,57 @@ adalah sistem pengelolaan database yang tidak dilakukan melalui manajemen relasi
 Buatlah sebuah project yang dapat
 melakukan CRUD lengkap yang memuat REST API Endpoint, Repository, dan Service<br /><br />
 
-- a. GET /v1/posts <br />
-  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/GET.JPG>)<br /><br/><br />
-- b. POST /v1/posts <br />
-  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/POST.JPG>)<br /><br/><br />
-- c. DELETE /v1/posts/{id} <br />
-  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/DELETE.JPG>)<br /><br/><br />
+- Product <br /><br />
 
-### Task 2
+==> Repository<br />
+![XX]()<br />
+==> Service<br />
+[ProductService]()<br />
+==> Endppoint<br />
+-> a. GET /api/v1/product <br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/GET.JPG>)<br /><br/><br />
 
-Tambahkan sebuah CRUD lagi dalam project tersebut <br /><br />
+-> b. POST /api/v1/product <br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/POST.JPG>)<br /><br/><br />
+
+-> c. PUT /api/v1/product/{id}
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/POST.JPG>)<br /><br/><br />
+
+-> d. DELETE /api/v1/product/{id} <br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/DELETE.JPG>)<br /><br/><br />
+
+- Transaction <br /><br />
+
+==> Repository<br />
+![XX]()<br />
+==> Service<br />
+[TransactionService]()<br />
+==> Endppoint<br />
+-> a. GET /api/v1/transaction <br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/GET.JPG>)<br /><br/><br />
+-> b. POST /api/v1/transaction <br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/POST.JPG>)<br /><br/><br />
+
+-> c. PUT /api/v1/transaction/{id}
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/POST.JPG>)<br /><br/><br />
+
+-> d. DELETE /api/v1/transaction/{id} <br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/DELETE.JPG>)<br /><br/><br />
+
+- Transaction Detail <br /><br />
+
+==> Repository<br />
+![XX]()<br />
+==> Service<br />
+[TransactionDetailService]()<br />
+==> Endppoint
+-> a. GET /api/v1/transactiondetail <br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/GET.JPG>)<br /><br/><br />
+-> b. POST /api/v1/transactiondetail <br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/POST.JPG>)<br /><br/><br />
+
+-> c. PUT /api/v1/transactiondetail/{id}
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/POST.JPG>)<br /><br/><br />
+
+-> d. DELETE /api/v1/transactiondetail{id} <br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/DELETE.JPG>)<br /><br/><br />
