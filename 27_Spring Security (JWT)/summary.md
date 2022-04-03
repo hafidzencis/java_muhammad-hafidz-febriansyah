@@ -65,14 +65,16 @@ JWT singkatan dari JSON Web Token adalah buah token berbentuk JSON yang padat (u
 
 ### Task 1
 
-![CODE-JSON-NO-2]()<br /><br />
+- Soal 1<br />
+  ![CODE-JSON-NO-2]()<br /><br />
 
 - Jawaban <br /><br />
   ![CODE-JSON-NO-2]()
 
 ### Task 2
 
-![CODE-JSON-NO-2]()<br /><br />
+- Soal 2<br />
+  ![CODE-JSON-NO-2]()<br /><br />
 
 - Jawaban <br /><br />
   ![CODE-JSON-NO-2]()
