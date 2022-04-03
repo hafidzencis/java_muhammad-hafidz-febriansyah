@@ -2,22 +2,29 @@ package com.alterra.section27.model;
 
 import java.util.Collection;
 
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.*;
 
+import lombok.Data;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
+@Data
+@Entity
+@Table(name = "users")
 public class User implements UserDetails {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-    private String username;
-    private String password;
-    
 
+    @Column(name = "phone")
+    private String username;
+
+    @Column(name = "password")
+    private String password;
+
+    @Column(columnDefinition ="boolean default true")
+    private boolean active = true;
 
     @Override
     public Collection<? extends GrantedAuthority> getAuthorities() {
@@ -26,39 +33,27 @@ public class User implements UserDetails {
     }
 
     @Override
-    public String getPassword() {
-        // TODO Auto-generated method stub
-        return null;
-    }
-
-    @Override
-    public String getUsername() {
-        // TODO Auto-generated method stub
-        return null;
-    }
-
-    @Override
     public boolean isAccountNonExpired() {
         // TODO Auto-generated method stub
-        return false;
+        return this.active;
     }
 
     @Override
     public boolean isAccountNonLocked() {
         // TODO Auto-generated method stub
-        return false;
+        return this.active;
     }
 
     @Override
     public boolean isCredentialsNonExpired() {
         // TODO Auto-generated method stub
-        return false;
+        return this.active;
     }
 
     @Override
     public boolean isEnabled() {
         // TODO Auto-generated method stub
-        return false;
+        return this.active;
     }
     
 }

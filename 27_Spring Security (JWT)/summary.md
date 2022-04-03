@@ -65,16 +65,14 @@ JWT singkatan dari JSON Web Token adalah buah token berbentuk JSON yang padat (u
 
 ### Task 1
 
-Buatlah sebuah project yang dapat
-melakukan CRUD lengkap yang memuat REST API Endpoint, Repository, dan Service<br /><br />
+![CODE-JSON-NO-2]()<br /><br />
 
-- a. GET /v1/posts <br />
-  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/GET.JPG>)<br /><br/><br />
-- b. POST /v1/posts <br />
-  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/POST.JPG>)<br /><br/><br />
-- c. DELETE /v1/posts/{id} <br />
-  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/DELETE.JPG>)<br /><br/><br />
+- Jawaban <br /><br />
+  ![CODE-JSON-NO-2]()
 
 ### Task 2
 
-Tambahkan sebuah CRUD lagi dalam project tersebut <br /><br />
+![CODE-JSON-NO-2]()<br /><br />
+
+- Jawaban <br /><br />
+  ![CODE-JSON-NO-2]()
