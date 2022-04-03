@@ -78,4 +78,4 @@ JWT singkatan dari JSON Web Token adalah buah token berbentuk JSON yang padat (u
   ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/27_Spring%20Security%20(JWT)/screenshot/soal2.JPG>)<br /><br />
 
 - Jawaban <br /><br />
-  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/27_Spring%20Security%20(JWT)/screenshot/soal2.JPG>)
+  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/27_Spring%20Security%20(JWT)/screenshot/postreturnphone.JPG>)
