@@ -66,16 +66,44 @@ Dalam materi ini, mempelajari <br />
 
 ### Task 1
 
-Buatlah sebuah project yang dapat
-melakukan CRUD lengkap yang memuat REST API Endpoint, Repository, dan Service<br /><br />
+Ada sebuah desain database table disamping.Dari skema database tersebut,
+konversikan kedalam Jpa Repository<br /><br />
 
-- a. GET /v1/posts <br />
-  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/GET.JPG>)<br /><br/><br />
-- b. POST /v1/posts <br />
-  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/POST.JPG>)<br /><br/><br />
-- c. DELETE /v1/posts/{id} <br />
-  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/DELETE.JPG>)<br /><br/><br />
+- Skema relation ship:<br/>
+  -> Products<br/>
+
+--> Products mempunyai relationship dengan many to one dengan brands.<br/>
+--> Products mempunyai relationship dengan many to one dengan categories.<br/>
+![CODE-JSON-NO-2]()<br /><br/>
+
+-> Brands<br/>
+--> brands mempunyai relationship dengan one to many dengan products.<br/>
+![CODE-JSON-NO-2]()<br /><br/>
+-> Categories<br/>
+--> categories mempunyai relationship dengan one to many dengan products.<br/>
+![CODE-JSON-NO-2]()<br /><br/>
+-> Stocks<br/>
+![CODE-JSON-NO-2]()<br /><br/><br />
+
+- Implementasi menggunakane endpoint POST<br />
+  -> Products<br/>
+  ![CODE-JSON-NO-2]()<br /><br/><br />
+  -> Brands<br/>
+  ![CODE-JSON-NO-2]()<br /><br/><br />
+  -> Categories<br/>
+  ![CODE-JSON-NO-2]()<br /><br/><br />
+  -> Stocks<br/>
+  ![CODE-JSON-NO-2]()<br /><br/><br />
 
 ### Task 2
 
 Tambahkan sebuah CRUD lagi dalam project tersebut <br /><br />
+
+- 1. Get all products with category <br />
+     ![CODE-JSON-NO-2]()<br /><br/><br />
+- 2. Paginate products using pageable <br />
+     ![CODE-JSON-NO-2]()<br /><br/><br />
+- 3. Sort proudcts by category <br />
+     ![CODE-JSON-NO-2]()<br /><br/><br />
+- 4. Search products by name <br />
+     ![CODE-JSON-NO-2]()<br /><br/><br />
