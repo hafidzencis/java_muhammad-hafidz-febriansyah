@@ -42,13 +42,39 @@ Repository Classes ---> Data Access Layer --> Database dijalankan
 Buatlah sebuah project yang dapat
 melakukan CRUD lengkap yang memuat REST API Endpoint, Repository, dan Service<br /><br />
 
-- a. GET /v1/posts <br />
-  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/GET.JPG>)<br /><br/><br />
-- b. POST /v1/posts <br />
-  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/POST.JPG>)<br /><br/><br />
-- c. DELETE /v1/posts/{id} <br />
-  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/DELETE.JPG>)<br /><br/><br />
+- Product<br/><br />
+
+  -> Repository<br />
+  [Product-Repository]()<br /><br/>
+
+  -> Service<br />
+  [Product-Service]()<br /><br/>
+
+  -> a. GET /v1/product <br />
+  ![CODE-JSON-NO-2]()<br /><br/><br />
+  -> b. POST /v1/product <br />
+  ![CODE-JSON-NO-2]()<br /><br/><br />
+  -> c. PUT /v1/product/{id} <br />
+  ![CODE-JSON-NO-2]()<br /><br/><br />
+  -> d. DELETE /v1/product/{id} <br />
+  ![CODE-JSON-NO-2]()<br /><br/><br />
 
 ### Task 2
 
 Tambahkan sebuah CRUD lagi dalam project tersebut <br /><br />
+
+- Price<br/><br />
+  -> Repository<br />
+  [Price-Repository]()<br /><br/>
+
+  -> Service<br />
+  [Price-Service]()<br /><br/>
+
+  -> a. GET /v1/price <br />
+  ![CODE-JSON-NO-2]()<br /><br/><br />
+  -> b. POST /v1/price <br />
+  ![CODE-JSON-NO-2]()<br /><br/><br />
+  -> c. PUT /v1/price/{id} <br />
+  ![CODE-JSON-NO-2]()<br /><br/><br />
+  -> d. DELETE /v1/price/{id} <br />
+  ![CODE-JSON-NO-2]()<br /><br/><br />

@@ -24,7 +24,7 @@ public class PriceService {
 
     public ResponseEntity<Object> getAllPrice() {
         return BaseResponse.build(HttpStatus.OK, KEY_FOUND, priceRepository.findAll());
-
+    
     }
 
     public ResponseEntity<Object> saveNewPrice(PriceDto request) {
