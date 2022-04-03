@@ -74,33 +74,35 @@ konversikan kedalam Jpa Repository<br /><br />
 
 --> Products mempunyai relationship dengan many to one dengan brands.<br/>
 --> Products mempunyai relationship dengan many to one dengan categories.<br/>
-![CODE-JSON-NO-2]()<br /><br/>
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/25_Impementation%20Relational%20(1o1%2C%201oMany%2C%20ManyoMany)/screenshot/relation/prod.JPG>)<br /><br/>
 
 -> Brands<br/>
 --> brands mempunyai relationship dengan one to many dengan products.<br/>
-![CODE-JSON-NO-2]()<br /><br/>
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/25_Impementation%20Relational%20(1o1%2C%201oMany%2C%20ManyoMany)/screenshot/relation/brands.JPG>)<br /><br/>
 -> Categories<br/>
+
 --> categories mempunyai relationship dengan one to many dengan products.<br/>
-![CODE-JSON-NO-2]()<br /><br/>
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/25_Impementation%20Relational%20(1o1%2C%201oMany%2C%20ManyoMany)/screenshot/relation/categories.JPG>)<br /><br/>
+
 -> Stocks<br/>
-![CODE-JSON-NO-2]()<br /><br/><br />
+![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/25_Impementation%20Relational%20(1o1%2C%201oMany%2C%20ManyoMany)/screenshot/relation/stocks.JPG>)<br /><br/><br />
 
 - Implementasi menggunakane endpoint POST<br />
   -> Products<br/>
-  ![CODE-JSON-NO-2]()<br /><br/><br />
+  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/25_Impementation%20Relational%20(1o1%2C%201oMany%2C%20ManyoMany)/screenshot/ssendpoint/postproducts.JPG>)<br /><br/><br />
   -> Brands<br/>
-  ![CODE-JSON-NO-2]()<br /><br/><br />
+  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/25_Impementation%20Relational%20(1o1%2C%201oMany%2C%20ManyoMany)/screenshot/ssendpoint/postbrands.JPG>)<br /><br/><br />
   -> Categories<br/>
-  ![CODE-JSON-NO-2]()<br /><br/><br />
+  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/25_Impementation%20Relational%20(1o1%2C%201oMany%2C%20ManyoMany)/screenshot/ssendpoint/postcategories.JPG>)<br /><br/><br />
   -> Stocks<br/>
-  ![CODE-JSON-NO-2]()<br /><br/><br />
+  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/25_Impementation%20Relational%20(1o1%2C%201oMany%2C%20ManyoMany)/screenshot/ssendpoint/poststocks.JPG>)<br /><br/><br />
 
 ### Task 2
 
 Tambahkan sebuah CRUD lagi dalam project tersebut <br /><br />
 
 - 1. Get all products with category <br />
-     ![CODE-JSON-NO-2]()<br /><br/><br />
+     ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/25_Impementation%20Relational%20(1o1%2C%201oMany%2C%20ManyoMany)/screenshot/sstask2/1.JPG>)<br /><br/><br />
 - 2. Paginate products using pageable <br />
      ![CODE-JSON-NO-2]()<br /><br/><br />
 - 3. Sort proudcts by category <br />
