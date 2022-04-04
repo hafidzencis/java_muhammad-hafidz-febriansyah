@@ -71,3 +71,19 @@ performs as designed
 
 Problem - Business Logic Layer Testing <br />
 Dari praktikum pada materi Springboot NoSOL, lakukan unit test pada bagian service! Minimum 3 test case.
+
+1.  SS ProductServiceTest<br />
+
+![xx]()<br /><br />
+
+- Hasil dari Test Create New Product<br />
+  ![xx]()<br /><br />
+
+2. SS ProductServiceTest<br />
+
+![xx]()<br /><br />
+
+- Hasil dari Test Update New Product<br />
+  ![xx]()<br /><br />
+- Hasil dari Test Create New Transaction<br />
+  ![xx]()<br /><br />
