@@ -74,16 +74,16 @@ Dari praktikum pada materi Springboot NoSOL, lakukan unit test pada bagian servi
 
 1.  SS ProductServiceTest<br />
 
-![xx]()<br /><br />
+![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/28_Unit%20Testing/screenshot/productservicetestkoding.JPG)<br /><br />
 
 - Hasil dari Test Create New Product<br />
-  ![xx]()<br /><br />
+  ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/28_Unit%20Testing/screenshot/testcreatenewproduct.JPG)<br /><br />
+- Hasil dari Test Update New Product<br />
+  ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/28_Unit%20Testing/screenshot/testupdatenewproduct.JPG)<br /><br />
 
 2. SS ProductServiceTest<br />
 
-![xx]()<br /><br />
+![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/28_Unit%20Testing/screenshot/transactionservicetestkoding.JPG)<br /><br />
 
-- Hasil dari Test Update New Product<br />
-  ![xx]()<br /><br />
 - Hasil dari Test Create New Transaction<br />
-  ![xx]()<br /><br />
+  ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/28_Unit%20Testing/screenshot/testcreatenewtrannsaction.JPG)<br /><br />
