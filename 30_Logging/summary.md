@@ -40,7 +40,7 @@ Customize the log output<br />
 
 Logging <br />
 
-![xx]()<br /><br />
+![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/30_Logging/screenshot/input.JPG)<br /><br />
 
 Output <br />
-![xx]()<br /><br />
+![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/30_Logging/screenshot/output.JPG)<br /><br />
