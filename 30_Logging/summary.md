@@ -36,4 +36,11 @@ Berikut Log levels dengan warnanya :<br /><br />
 
 ### Task 1
 
-Customize the log output
+Customize the log output<br />
+
+Logging <br />
+
+![xx]()<br /><br />
+
+Output <br />
+![xx]()<br /><br />
