@@ -44,4 +44,4 @@ Build your own docker images based from spring boot project using docker
 2. Menjalankan Container<br />
    ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/37_Docker%20Container%20with%20Microservices/screenshot/docker%20run%20and%20build%20container.JPG)<br /><br />
 3. Mencoba menggunakan postman<br />
-   ![xx]()<br /><br />
+   ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/37_Docker%20Container%20with%20Microservices/screenshot/hasil.JPG)<br /><br />
