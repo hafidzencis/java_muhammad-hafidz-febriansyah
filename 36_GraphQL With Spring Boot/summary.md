@@ -31,3 +31,17 @@ GraphQL adalah bahasa query dan runtime sisi server untuk Application Programmin
 ### Task 1
 
 Write graphql using schemas below on spring boot project<br/><br/>
+
+1. Controller<br />
+   ![xx]()<br /><br />
+2. Domain<br />
+
+   - Dao<br />
+     ![xx]()<br /><br />
+   - Dto<br />
+     ![xx]()<br /><br />
+
+3. Repository<br />
+   ![xx]()<br /><br />
+4. Service<br />
+   ![xx]()<br /><br />

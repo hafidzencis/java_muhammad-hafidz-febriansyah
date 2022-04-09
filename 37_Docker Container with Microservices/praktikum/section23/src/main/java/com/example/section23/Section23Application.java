@@ -1,13 +1,13 @@
-package com.alterra.section36;
+package com.example.section23;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Section36Application {
+public class Section23Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Section36Application.class, args);
+		SpringApplication.run(Section23Application.class, args);
 	}
 
 }

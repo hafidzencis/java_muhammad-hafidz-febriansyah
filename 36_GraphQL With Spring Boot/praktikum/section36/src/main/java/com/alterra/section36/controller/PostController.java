@@ -1,30 +1,29 @@
 package com.alterra.section36.controller;
 
-import com.alterra.section36.model.Post;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import com.alterra.section36.domain.dto.PostDto;
+import com.alterra.section36.service.PostService;
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.graphql.data.method.annotation.Argument;
+import org.springframework.graphql.data.method.annotation.MutationMapping;
 import org.springframework.graphql.data.method.annotation.QueryMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.stereotype.Controller;
 
-import java.util.ArrayList;
 import java.util.List;
 
-@RestController
+@Slf4j
+@Controller
 public class PostController {
-    Logger logger = LoggerFactory.getLogger(PostController.class);
+    @Autowired
+    private PostService postService;
+
     @QueryMapping
-    List<Post> posts() {
-        List<Post> posts = new ArrayList<>();
-        posts.add(new Post(1,"Kebohongan Pejabat",
-                "Segala tindakan apapun akan dilakukan pejabat untuk mencari suara",
-        "Politik",1));
-        posts.add(new Post(2,"Kancil Si Licik","Kancil suka melakukan hal apapun demi keinginannya",
-                "Dongeng",2));
-        posts.add(new Post(3,"Kebohongan Jokowi","Presiden ke 6 disukai masyarakat tapi diantara lain juga itdak disukai karena pandangannya sering berubah - ubah",
-                "Politik",1));
+    public List<PostDto> recentPost(@Argument int count, @Argument int offset) {
+        return postService.getPosts(count, offset);
+    }
 
-        logger.info("Result Post Controller");
-        return posts;
-
+    @MutationMapping
+    public PostDto writePost(@Argument String title, @Argument String text, @Argument String category) {
+        return postService.createPost(title, text, category);
     }
 }
