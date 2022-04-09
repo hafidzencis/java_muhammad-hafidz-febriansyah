@@ -33,15 +33,15 @@ GraphQL adalah bahasa query dan runtime sisi server untuk Application Programmin
 Write graphql using schemas below on spring boot project<br/><br/>
 
 1. Controller<br />
-   ![xx]()<br /><br />
+   ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/36_GraphQL%20With%20Spring%20Boot/praktikum/section36/src/main/java/com/alterra/section36/controller)<br /><br />
 2. Domain<br />
 
    - Dao<br />
-     ![xx]()<br /><br />
+     ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/36_GraphQL%20With%20Spring%20Boot/praktikum/section36/src/main/java/com/alterra/section36/domain/dao)<br /><br />
    - Dto<br />
-     ![xx]()<br /><br />
+     ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/36_GraphQL%20With%20Spring%20Boot/praktikum/section36/src/main/java/com/alterra/section36/domain/dto)<br /><br />
 
 3. Repository<br />
-   ![xx]()<br /><br />
+   ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/36_GraphQL%20With%20Spring%20Boot/praktikum/section36/src/main/java/com/alterra/section36/repository)<br /><br />
 4. Service<br />
-   ![xx]()<br /><br />
+   ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/36_GraphQL%20With%20Spring%20Boot/praktikum/section36/src/main/java/com/alterra/section36/service)<br /><br />
