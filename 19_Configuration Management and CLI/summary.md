@@ -73,35 +73,35 @@ Command khusus untuk utility :<br />
 
 Install Oh My Zsh<br />
 Berikut gambaran dari SS-an linux<br />
-![xx]()<br />
+![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/19_Configuration%20Management%20and%20CLI/screenshot/intstall%20oh%20my%20zsh.JPG)<br />
 
 ### Task 2
 
 Create Automation Script<br />
 Tree 'Hafidz at Sun 10 Apr 2022 07:49:13 PM WIB'
-![xx]()<br /><br /><br />
+![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/19_Configuration%20Management%20and%20CLI/screenshot/tree/1.JPG)<br /><br /><br />
 Isi dari Aboutme<br />
-![xx]()<br />
+![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/19_Configuration%20Management%20and%20CLI/screenshot/tree/isi%20dari%20aboutme.JPG)<br />
 Isi dari personal<br />
 ![xx]()<br />
 Isi dari facebook.txt<br />
-![xx]()<br /><br />
+![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/19_Configuration%20Management%20and%20CLI/screenshot/tree/isi%20facebook.JPG)<br /><br />
 Isi dari profesional<br />
 ![xx]()<br />
 Isi dari linkedin.txt<br />
-![xx]()<br /><br /><br />
+![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/19_Configuration%20Management%20and%20CLI/screenshot/tree/isi%20linkedin.JPG)<br /><br /><br />
 
 Isi dari my_friends<br />
-![xx]()<br />
+![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/19_Configuration%20Management%20and%20CLI/screenshot/tree/isi%20dari%20my%20friends.JPG)<br />
 Isi dari list_of_my_friends.txt<br />
-![xx]()<br /><br /><br />
+![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/19_Configuration%20Management%20and%20CLI/screenshot/tree/isi%20myfriends.JPG)<br /><br /><br />
 
 Isi dari my_sistem info<br />
-![xx]()<br />
+![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/19_Configuration%20Management%20and%20CLI/screenshot/tree/isi%20dari%20%20my%20sistem%20info.JPG)<br />
 Isi dari about_this_laptop.txt<br />
-![xx]()<br />
+![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/19_Configuration%20Management%20and%20CLI/screenshot/tree/isi%20%20about%20this%20laptop.JPG)<br />
 Isi dari internet_connection.txt<br />
-![xx]()<br />
+![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/19_Configuration%20Management%20and%20CLI/screenshot/tree/isi%20internet%20connection.JPG)<br />
 
 ### Task 3
 
