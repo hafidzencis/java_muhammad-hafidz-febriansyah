@@ -83,11 +83,11 @@ Tree 'Hafidz at Sun 10 Apr 2022 07:49:13 PM WIB'
 Isi dari Aboutme<br />
 ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/19_Configuration%20Management%20and%20CLI/screenshot/tree/isi%20dari%20aboutme.JPG)<br />
 Isi dari personal<br />
-![xx]()<br />
+![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/19_Configuration%20Management%20and%20CLI/screenshot/tree/isi%20dr%20personal.JPG)<br />
 Isi dari facebook.txt<br />
 ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/19_Configuration%20Management%20and%20CLI/screenshot/tree/isi%20facebook.JPG)<br /><br />
 Isi dari profesional<br />
-![xx]()<br />
+![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/19_Configuration%20Management%20and%20CLI/screenshot/tree/isi%20dari%20profesional.JPG)<br />
 Isi dari linkedin.txt<br />
 ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/19_Configuration%20Management%20and%20CLI/screenshot/tree/isi%20linkedin.JPG)<br /><br /><br />
 
