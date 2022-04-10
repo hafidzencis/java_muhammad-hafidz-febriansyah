@@ -53,57 +53,57 @@ Fungsi dari function DMS ini antara lain <br />
 
 1. Insert <br />
    a. Insert 5 operators pada table operators.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/insert/a.JPG>)<br /><br /><br />
    b. Insert 3 product type.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/insert/b.JPG>)<br /><br /><br />
    c. Insert 2 product dengan product type id - 1, dan operators id - 3.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/insert/c.JPG>)<br /><br /><br />
    d. Insert 3 product dengan product type id - 2, dan operators id - 1.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/insert/d.JPG>)<br /><br /><br />
    e. Insert 3 product dengan product type id - 3, dan operators id - 4.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/insert/e.JPG>)<br /><br /><br />
    f. Insert product description pada setiap product.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/insert/f.JPG>)<br /><br /><br />
    g. Insert 3 payment methods.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/insert/g.JPG>)<br /><br /><br />
    h. Insert 5 user pada tabel user.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/insert/h.JPG>)<br /><br /><br />
    i. Insert 3 transaksi di masing-masing user.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/insert/i.JPG>)<br /><br /><br />
    j. Insert 3 product di masing-masing transaksi.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/insert/j.JPG>)<br /><br /><br />
 
 2. Select<br />
    a. Tampilkan nama user / pelanggan dengan gender Laki-laki / M.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/select/a.JPG>)<br /><br /><br />
    b. Tampilkan product dengan id - 3.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/select/b.JPG>)<br /><br /><br />
    c. Tampilkan data pelanggan yang created at dalam range 7 hari kebelakang mempunyai nama mengandung kata 'a'.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/select/c.JPG>)<br /><br /><br />
    d. Hitung jumlah user / pelanggan dengan status gender Perempuan.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/select/d.JPG>)<br /><br /><br />
    e. Tampilkan data pelanggan dengan urutan sesuai nama abjad<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/select/e.JPG>)<br /><br /><br />
    f. Tampilkan 5 data pada data product<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/select/f.JPG>)<br /><br /><br />
 
 3. Update<br />
    a. Ubah data product id 1 dengan nama 'product dummy'.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/update/a.JPG>)<br /><br /><br />
 
 4. Delete<br />
    a. Delete data pada tabel product dengan id 1.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/delete/a.JPG>)<br /><br /><br />
 
 ### Task 2 JOIN
 
 1. Gabungkan data transaksi dari user id 1 dan user id 2.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/join/a.JPG>)<br /><br /><br />
 2. Tampilkan jumlah harga transaksi user id 1.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/join/b.JPG>)<br /><br /><br />
 3. Tampilkan total transaksi dengan product type 2.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/join/c.JPG>)<br /><br /><br />
 4. Tampilkan semua field table product dan field name table product type yang saling berhubungan.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/join/d.JPG>)<br /><br /><br />
 5. Tampilkan semua field table transaction, field name table product dan field name table user.<br />
-   ![xx]()<br /><br /><br />
+   ![xx](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/14_Join%2C%20Union%2C%20Agregasi%2C%20Subquery%2C%20Function%20(DBMS)/screenshot/join/e.JPG>)<br /><br /><br />
