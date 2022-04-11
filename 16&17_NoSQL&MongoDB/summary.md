@@ -112,18 +112,19 @@ db.collections.remove({nama:'jokowi'})<br />
    ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/2-1.JPG)<br />
 
 2. Tampilkan daftar buku dan harga author id = 1<br />
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/agregasi/2.JPG)<br />
 
 3. Tampilkan Total jumlah halaman buku author 2
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/agregasi/3.JPG)<br />
 
 4. Tampilkan semua field books,authors terkait
-   ![output](<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/agregasi/4.JPG)<br />
 
 5. Tampilkan semua field books,authors, dan publishers
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/agregasi/5.JPG)<br />
 
 6. Tampikan summary data authors, books, dan publishers sesuai dengan output
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/agregasi/6.JPG)<br />
+
 7. Digital outlet ingin memberikan diskon untuk setiap buku, diskon, di tentukan melihat harga buku tersebut dengan pembagian seperti ini.
-   ![output]()<br />
+   ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/16%2617_NoSQL%26MongoDB/screenshot/agregasi/7.JPG)<br />
