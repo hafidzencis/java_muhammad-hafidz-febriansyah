@@ -50,13 +50,26 @@ Software Testing adalah metode untuk memeriksa software apakah sudah sesuai deng
 
 Berikan masing - masing endpoint yang sudah dibuat cover dengan integration test dan unit test nya<br /><br />
 
-- a. GET /v1/posts <br />
-  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/GET.JPG>)<br /><br/><br />
-- b. POST /v1/posts <br />
-  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/POST.JPG>)<br /><br/><br />
-- c. DELETE /v1/posts/{id} <br />
-  ![CODE-JSON-NO-2](<https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/22_Getting%20Started%20REST%20Spring%20Boot%20(MVC)/screenshot/DELETE.JPG>)<br /><br/><br />
+- a.Melakukan Testing Product Controller <br />
+  [ProductsControllerTest.java]()<br /><br />
 
-### Task 2
+  Output :<br />
+  ![ProductsControllerTest.java]()<br /><br /><br />
 
-Tambahkan sebuah CRUD lagi dalam project tersebut <br /><br />
+- b.Melakukan Testing Categories Controller <br />
+  [CategoriesControllerTest.java]()<br /><br />
+
+  Output :<br />
+  ![ProductsControllerTest.java]()<br /><br /><br />
+
+- c. Melakukan Testing Brands Controller <br />
+  [BrandsControllerTest.java]()<br /><br />
+
+  Output :<br />
+  ![BrandsControllerTest.java]()<br /><br /><br />
+
+- d. Melakukan Testing Stocks Controller <br />
+  [StocksControllerTest.java]()<br /><br />
+
+  Output :<br />
+  ![StocksControllerTest.java]()<br /><br /><br />
