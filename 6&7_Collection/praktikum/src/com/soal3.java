@@ -10,12 +10,13 @@ public class soal3 {
     public static void main(String[] args) {
         int[] arr1 = {1,2,3,4,6};
         int target1 = 6;
-       System.out.println(hitungTarget(arr1,target1));
+        System.out.println(hitungTarget(arr1,target1));
 
         int[] arr2 = {2,5,9,11};
         int target2 = 11;
+        System.out.println();
 
-        hitungTarget(arr2,target2);
+        System.out.println(hitungTarget(arr2,target2));
     }
 
      static List hitungTarget(int[] arr, int sum){

@@ -5,6 +5,13 @@ import java.util.Arrays;
 import java.util.List;
 
 public class soal2{
+    public static void main(String[] args) {
+        System.out.println(Arrays.toString(AngkaMunculSekali("76523752"))); 
+        System.out.println();
+        System.out.println(Arrays.toString(AngkaMunculSekali("1234123"))); 
+        System.out.println();
+        System.out.println(Arrays.toString(AngkaMunculSekali("1122"))); 
+    }
     static Integer[] AngkaMunculSekali(String angka) {
         int[] count = new int[10];
         Arrays.fill(count, 0);
@@ -23,9 +30,5 @@ public class soal2{
         return result;
     }
 
-    public static void main(String[] args) {
-        System.out.println(Arrays.toString(AngkaMunculSekali("76523752"))); 
-        System.out.println(Arrays.toString(AngkaMunculSekali("1234123"))); 
-        System.out.println(Arrays.toString(AngkaMunculSekali("1122"))); 
-    }
+
 }   

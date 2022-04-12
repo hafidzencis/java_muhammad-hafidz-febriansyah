@@ -35,7 +35,32 @@ Dibawah Navigable Map terdapat Tree Map.
 
 ### Task 1
 
-Link Code : [Code-Task-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/6%267_Collection/praktikum/src/com/soal1.java)<br />
+1. Link Code : [Code-Task-1]()<br />
 
 Berikut gambar input dengan output <br />
-![input-output-no-1](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/6%267_Collection/screenshot/no1.JPG) <br />
+![input-output-no-1]() <br />
+
+2. Link Code : [Code-Task-2]()<br />
+
+Berikut gambar input dengan output <br />
+![input-output-no-2]() <br />
+
+3. Link Code : [Code-Task-3]()<br />
+
+Berikut gambar input dengan output <br />
+![input-output-no-3]() <br />
+
+4. Link Code : [Code-Task-4]()<br />
+
+Berikut gambar input dengan output <br />
+![input-output-no-4]() <br />
+
+5. Link Code : [Code-Task-5]()<br />
+
+Berikut gambar input dengan output <br />
+![input-output-no-5]() <br />
+
+6. Link Code : [Code-Task-6]()<br />
+
+Berikut gambar input dengan output <br />
+![input-output-no-6]() <br />
