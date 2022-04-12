@@ -51,25 +51,25 @@ Software Testing adalah metode untuk memeriksa software apakah sudah sesuai deng
 Berikan masing - masing endpoint yang sudah dibuat cover dengan integration test dan unit test nya<br /><br />
 
 - a.Melakukan Testing Product Controller <br />
-  [ProductsControllerTest.java]()<br /><br />
+  [ProductsControllerTest.java](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/29_Integration%20Test/praktikum/Alterra/src/test/java/com/example/Alterra/controller/ProductsControllerTest.java)<br /><br />
 
   Output :<br />
-  ![ProductsControllerTest.java]()<br /><br /><br />
+  ![ProductsControllerTest.java](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/29_Integration%20Test/screenshot/Testing%20productcontrollertest.png)<br /><br /><br />
 
 - b.Melakukan Testing Categories Controller <br />
-  [CategoriesControllerTest.java]()<br /><br />
+  [CategoriesControllerTest.java](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/29_Integration%20Test/praktikum/Alterra/src/test/java/com/example/Alterra/controller/CategoriesControllerTest.java)<br /><br />
 
   Output :<br />
-  ![ProductsControllerTest.java]()<br /><br /><br />
+  ![ProductsControllerTest.java](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/29_Integration%20Test/screenshot/Testing%20categoriescontrollertest.png)<br /><br /><br />
 
 - c. Melakukan Testing Brands Controller <br />
-  [BrandsControllerTest.java]()<br /><br />
+  [BrandsControllerTest.java](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/29_Integration%20Test/praktikum/Alterra/src/test/java/com/example/Alterra/controller/CategoriesControllerTest.java)<br /><br />
 
   Output :<br />
-  ![BrandsControllerTest.java]()<br /><br /><br />
+  ![BrandsControllerTest.java](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/29_Integration%20Test/screenshot/Testing%20brandcontrollertest.png)<br /><br /><br />
 
 - d. Melakukan Testing Stocks Controller <br />
-  [StocksControllerTest.java]()<br /><br />
+  [StocksControllerTest.java](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/29_Integration%20Test/praktikum/Alterra/src/test/java/com/example/Alterra/controller/StocksControllerTest.java)<br /><br />
 
   Output :<br />
-  ![StocksControllerTest.java]()<br /><br /><br />
+  ![StocksControllerTest.java](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/29_Integration%20Test/screenshot/Testing%20stockscontrollertest.png)<br /><br /><br />
