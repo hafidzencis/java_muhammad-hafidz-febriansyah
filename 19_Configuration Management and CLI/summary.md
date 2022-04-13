@@ -104,6 +104,3 @@ Isi dari internet_connection.txt<br />
 ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/19_Configuration%20Management%20and%20CLI/screenshot/tree/isi%20internet%20connection.JPG)<br />
 
 ### Task 3
-
-Codeacademy Basic Command Line(Optional)<br />
-![xx]()<br />
