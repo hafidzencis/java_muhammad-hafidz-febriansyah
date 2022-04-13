@@ -79,7 +79,7 @@ Berikut gambaran dari SS-an linux<br />
 
 Create Automation Script<br />
 Script Automate.sh <br />
-[Automate.sh]()<br /><br />
+[Automate.sh](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/19_Configuration%20Management%20and%20CLI/praktikum/automate.sh)<br /><br />
 
 Tree 'Hafidz at Sun 10 Apr 2022 07:49:13 PM WIB'
 ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/19_Configuration%20Management%20and%20CLI/screenshot/tree/1.JPG)<br /><br /><br />
