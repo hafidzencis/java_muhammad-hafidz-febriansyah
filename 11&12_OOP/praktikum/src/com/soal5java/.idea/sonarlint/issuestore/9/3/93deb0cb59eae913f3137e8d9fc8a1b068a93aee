@@ -1,0 +1,27 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨³Ë
+M	java:S106"9Replace this use of System.out or System.err by a logger.(òığ1
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨³Ë
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³è«‹ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ö›ˆ¯úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨³Ë
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µ£·Œ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ƒœ½İùÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ëêºÑüÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(¨³Ë
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ãôÁÿÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(¢ó­—úÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(´½‡Óøÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(‚£¢³üÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ÎÇæ¬ÿÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(¶Èïıÿÿÿÿ
+M	java:S106>"9Replace this use of System.out or System.err by a logger.(òx
+M	java:S106@"9Replace this use of System.out or System.err by a logger.(„ˆ s
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(›åéÁùÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(ô×È‘
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(Ùı†ÿÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(ë°°ÿùÿÿÿÿ
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(Øë”ß
+l
+java:S1192"VDefine a constant instead of duplicating this literal "---------------------" 4 times.(¨³Ë
+s	java:S135-"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ

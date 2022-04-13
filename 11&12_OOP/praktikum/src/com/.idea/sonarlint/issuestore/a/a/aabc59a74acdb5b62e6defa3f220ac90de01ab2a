@@ -1,0 +1,29 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µ£·Œ8Š¾·ˆ‚0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(•»ÆÏúÿÿÿÿ8‹¾·ˆ‚0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(œé©38¾·ˆ‚0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢ó­—úÿÿÿÿ8¾·ˆ‚0
+T	java:S106$"9Replace this use of System.out or System.err by a logger.(êŞ‹G8‘¾·ˆ‚0
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(ãÕÛØ8’¾·ˆ‚0
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8“¾·ˆ‚0
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(ÉõåÙ8”¾·ˆ‚0
+U	java:S106="9Replace this use of System.out or System.err by a logger.(Îœò—8›¾·ˆ‚0
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(ÚÂâ8œ¾·ˆ‚0
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ8¾·ˆ‚0
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(”È×Àüÿÿÿÿ8Ÿ¾·ˆ‚0
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ8 ¾·ˆ‚0
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(³è«‹ıÿÿÿÿ8 ¾·ˆ‚0
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(Ö›ˆ¯úÿÿÿÿ8¡¾·ˆ‚0
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ8¢¾·ˆ‚0
+:
+java:S2119M"Save and re-use this "Random".(¼İÅf8ª¾·ˆ‚0
+U	java:S106c"9Replace this use of System.out or System.err by a logger.(°àšÏ8µ¾·ˆ‚0
+Z	java:S106e"9Replace this use of System.out or System.err by a logger.(Ø‹¡èıÿÿÿÿ8¶¾·ˆ‚0
+T	java:S106g"9Replace this use of System.out or System.err by a logger.(„ˆ s8·¾·ˆ‚0
+V	java:S106„"9Replace this use of System.out or System.err by a logger.(œÜÉ³8¾¾·ˆ‚0
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(‡¦ş§ıÿÿÿÿ8¾¾·ˆ‚0
+[	java:S106†"9Replace this use of System.out or System.err by a logger.(¹ÄªÌûÿÿÿÿ8À¾·ˆ‚0
+…
+java:S1192B"cDefine a constant instead of duplicating this literal "----------------------------------" 3 times.(Õ÷õúÿÿÿÿ8Â¾·ˆ‚0
+t
+java:S1104s"RMake opened a static final constant or non-public and provide accessors if needed.(œ¼À¡úÿÿÿÿ8Å¾·ˆ‚0
