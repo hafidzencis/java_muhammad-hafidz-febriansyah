@@ -73,3 +73,9 @@ Berikut gambar output <br />
 Link Code : [Code-Task-4](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/11%2612_OOP/praktikum/src/com/soal4java)<br />
 Berikut gambaroutput <br />
 ![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/11%2612_OOP/screenshot/4.JPG)<br />
+
+### Task 5
+
+Link Code : [Code-Task-5](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/11%2612_OOP/praktikum/src/com/soal5java/soal5/App.java)<br />
+Berikut gambaroutput <br />
+![output](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/11%2612_OOP/screenshot/5.jpg)<br />
