@@ -18,7 +18,9 @@ CD adalah singkatan dari Continous Deployment, praktik yang dilakukan setelah pr
 
 Manual Deployment adalah Konfigurasi manual ditujukan untuk pengguna tingkat lanjut ketika kontrol lebih besar dari lingkungan server aplikasi diperlukan. Ketika utilitas konfigurasi dijalankan dengan mode penyebaran manual yang dipilih, itu membuat perubahan yang diperlukan ke database, tetapi server aplikasi Anda tidak berubah.<br /><br />
 
-Automatic deployment adalah
+Automatic deployment adalah memberikan kemampuan untuk memindahkan perangkat lunak Anda antara lingkungan pengujian dan produksi dengan menggunakan proses otomatis. Ini mengarah pada penerapan yang berulang dan andal di seluruh siklus pengiriman perangkat lunak.
+
+Automatic deployment memungkinkan Anda merilis fitur dan aplikasi baru lebih cepat dan sering, sekaligus menghilangkan kebutuhan akan campur tangan manusia dalam penerapan aplikasi.
 
 ### Keuntungan Automatic Deployment
 
@@ -29,3 +31,11 @@ Automatic deployment adalah
 ## Task
 
 ### Task 1
+
+Challange deploy spring boot project on local machine to public server cloud to AWS Web Service.<br /> <br />
+
+Output:
+
+![xx]()<br /><br />
+
+![xx]()<br /><br />
