@@ -34,8 +34,8 @@ Automatic deployment memungkinkan Anda merilis fitur dan aplikasi baru lebih cep
 
 Challange deploy spring boot project on local machine to public server cloud to AWS Web Service.<br /> <br />
 
-Output:
+- Melakukan pull dari project springboot/helloworld dari dockerhub<br />
+  ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/38_Compute%20Server/screenshot/dockre.jpg)<br /><br />
 
-![xx]()<br /><br />
-
-![xx]()<br /><br />
+- Output:<br />
+  ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/38_Compute%20Server/screenshot/hasil.jpg)<br /><br />
