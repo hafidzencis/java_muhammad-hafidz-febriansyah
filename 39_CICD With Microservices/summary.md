@@ -34,13 +34,13 @@ Github Action ini gampang di automasi semua dari software workflow yang kamu bua
 The challenging deploy spring boot and postgresql<br /> <br />
 
 - Link Repo<br/>
-  ![xx]()<br /><br />
+  [Link-Repository]https://github.com/hafidzencis/CICD_GithubAction/actions/runs/2171937319)<br /><br />
 
 - Container<br />
-  ![xx]()<br /><br />
+  ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/39_CICD%20With%20Microservices/screenshot/checkrunningcontainer.jpg)<br /><br />
 
 - Network <br />
-  ![xx]()<br /><br />
+  ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/39_CICD%20With%20Microservices/screenshot/checkrunningcontainer.jpg)<br /><br />
 
 - Output:<br />
-  ![xx]()<br /><br />
+  ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/39_CICD%20With%20Microservices/screenshot/photo6255695935246020481.jpg)<br /><br />
