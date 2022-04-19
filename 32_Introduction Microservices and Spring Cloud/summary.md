@@ -56,16 +56,14 @@ Kekurangn Arsitektur Microservice
 
 Problem 1 Centralized and Decentralized Database<br />
 
-![xx]()<br /><br /><br />
+![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/32_Introduction%20Microservices%20and%20Spring%20Cloud/screenshot/no1.jpg)<br /><br /><br />
 
 ### Task 2
 
-Problem 2 Services Communication<br />
-
-![xx]()<br /><br />
+Problem 2 Services Communication<br /><br />
 
 - a. Menggunakan RPC<br />
-  ![xx]()<br /><br />
+  ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/32_Introduction%20Microservices%20and%20Spring%20Cloud/screenshot/no2a.jpg)<br /><br />
 
 - b. Menggunakan Messaging<br />
-  ![xx]()<br /><br />
+  ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/32_Introduction%20Microservices%20and%20Spring%20Cloud/screenshot/no2b.jpg)<br /><br />
