@@ -73,13 +73,13 @@ Problem 2 Services Communication<br /><br />
 Problem 3 Implementation Microservices <br /><br />
 
 - a. Customer Service<br/>
-  Link : [Customer-Service-File]()<br/><br/>
+  Link : [Customer-Service-File](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/33_Implementation%20Microservices/Praktikum/section33customerservice)<br/><br/>
 
 - b. Product Service<br/>
-  Link : [Product-Service-File]()<br/><br/>
+  Link : [Product-Service-File](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/33_Implementation%20Microservices/Praktikum/section33productservice)<br/><br/>
 
 - c. Order Service<br/>
-  Link : [Order-Service-File]()<br/><br/><br/>
+  Link : [Order-Service-File](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/33_Implementation%20Microservices/Praktikum/section33orderservice)<br/><br/><br/>
 
   Output : <br/>
 
