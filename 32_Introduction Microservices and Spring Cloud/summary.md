@@ -67,3 +67,27 @@ Problem 2 Services Communication<br /><br />
 
 - b. Menggunakan Messaging<br />
   ![xx](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/32_Introduction%20Microservices%20and%20Spring%20Cloud/screenshot/no2b.jpg)<br /><br />
+
+### Task 3
+
+Problem 3 Implementation Microservices <br /><br />
+
+- a. Customer Service<br/>
+  Link : [Customer-Service-File]()<br/><br/>
+
+- b. Product Service<br/>
+  Link : [Product-Service-File]()<br/><br/>
+
+- c. Order Service<br/>
+  Link : [Order-Service-File]()<br/><br/><br/>
+
+  Output : <br/>
+
+- a. Customer Service<br/>
+  ![Customer-Service-File]()<br/><br/>
+
+- b. Product Service<br/>
+  ![Product-Service-File]()<br/><br/>
+
+- c. Order Service<br/>
+  ![Order-Service-File]()<br/><br/><br/>
