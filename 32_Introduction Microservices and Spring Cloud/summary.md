@@ -81,9 +81,7 @@ Problem 3 Implementation Microservices <br /><br />
 - c. Order Service<br/>
   Link : [Order-Service-File](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/tree/master/33_Implementation%20Microservices/Praktikum/section33orderservice)<br/><br/><br/>
 
-  Output : <br/>
+  Output : <br/><br/>
 
-- c. Order Service<br/>
-  Output: <br/>
   ![Order-Service-File](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/32_Introduction%20Microservices%20and%20Spring%20Cloud/screenshot/msorder/msorder.jpg)<br/><br/>
   ![Order-Service-File](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/32_Introduction%20Microservices%20and%20Spring%20Cloud/screenshot/msorder/response.jpg)<br/><br/>
