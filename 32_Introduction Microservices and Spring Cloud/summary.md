@@ -83,11 +83,7 @@ Problem 3 Implementation Microservices <br /><br />
 
   Output : <br/>
 
-- a. Customer Service<br/>
-  ![Customer-Service-File]()<br/><br/>
-
-- b. Product Service<br/>
-  ![Product-Service-File]()<br/><br/>
-
 - c. Order Service<br/>
-  ![Order-Service-File]()<br/><br/><br/>
+  Output: <br/>
+  ![Order-Service-File](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/32_Introduction%20Microservices%20and%20Spring%20Cloud/screenshot/msorder/msorder.jpg)<br/><br/>
+  ![Order-Service-File](https://github.com/hafidzencis/java_muhammad-hafidz-febriansyah/blob/master/32_Introduction%20Microservices%20and%20Spring%20Cloud/screenshot/msorder/response.jpg)<br/><br/>
